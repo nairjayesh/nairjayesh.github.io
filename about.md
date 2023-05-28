@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Jayesh Nair. I'm interested to learn about how to combine technology with fundametal sciences to create useful products. 
 
-### More Information
+Previously, I used to work at minto.ai, a startup working to add efficiencty to existing maintenance by combining IoT & AI with spectral analysis. My role was to work as a technical consultant, finding new use cases for the product and to drive sales. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently embarking on a new adventure. Updates soon. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+nairjayesh098 [at] gmail [dot] com
