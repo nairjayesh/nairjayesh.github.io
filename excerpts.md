@@ -5,9 +5,11 @@ permalink: /excerpts/
 ---
 Interesting excerpts I've come across.
 
->"My first axiom is this: In a perfect world students pursue learning not because it is prescribed to them but rather out of a genuine desire to figure things out. We must therefore teach as if our students were of this kind. Only by aspiring to this ideal can we bring it closer to being realised.
->My second axiom concerns the process of learning. It says: We learn when we are challenged, when we push ourselves. If you’re not stuck you’re not learning. If it’s not a struggle you’re not doing it right.
->The final axiom of my teaching philosophy is that the goal of teaching is independent thought. We want students to be able to think and reason and apply what they know in new situations. We do not want to create robots or parrots or one-trick ponies." - [Intellectual Mathematics](https://intellectualmathematics.com/manifesto/)  
+>"My first axiom is this: In a perfect world students pursue learning not because it is prescribed to them but rather out of a genuine desire to figure things out. We must therefore teach as if our students were of this kind. Only by aspiring to this ideal can we bring it closer to being realised."
+
+>"My second axiom concerns the process of learning. It says: We learn when we are challenged, when we push ourselves. If you’re not stuck you’re not learning. If it’s not a struggle you’re not doing it right."
+
+>"The final axiom of my teaching philosophy is that the goal of teaching is independent thought. We want students to be able to think and reason and apply what they know in new situations. We do not want to create robots or parrots or one-trick ponies." - [Intellectual Mathematics](https://intellectualmathematics.com/manifesto/)  
 
 >"Do not seek to follow in the footsteps of the wise; seek what they sought. Seek the meaning behind their footsteps, and not upon the steps themselves. For in seeking the footsteps you shall be glancing only upon the next footprint. And you're sure to stumble upon an unforeseen obstacle. But in seeking the meaning behind their footsteps you're sure to see ahead; comparable to looking up while walking. Thus allowing you to easily manoeuvre around the hurdles on the path you walk. …And if you walk like this long enough, you'll one day, to your surprise, find yourself among the wise." - [Matsuo Basho](https://www.poetryfoundation.org/poets/basho)
 
