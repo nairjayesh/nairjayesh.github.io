@@ -4,9 +4,7 @@ title: What is Science
 ---
 
 Note: This is a talk by Richard Feynmann, reproduced here so I could read it 
-again, and preserve it from getting lost in the jungle of the internet archives. 
-
-###  What is Science?    
+again, and preserve it from getting lost in the jungle of the internet archives.   
 
      Presented at the fifteenth annual meeting of the National Science  
      Teachers Association, 1966 in New York City, and reprinted from The  
