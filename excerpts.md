@@ -4,6 +4,8 @@ title: Excerpts
 permalink: /excerpts/
 ---
 Interesting excerpts I've come across.
+>"Don't only practise your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine."
+- Ludwig van Beethoven
 
 >"My first axiom is this: In a perfect world students pursue learning not because it is prescribed to them but rather out of a genuine desire to figure things out. We must therefore teach as if our students were of this kind. Only by aspiring to this ideal can we bring it closer to being realised."
 
