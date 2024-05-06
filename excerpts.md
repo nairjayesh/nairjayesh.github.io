@@ -5,6 +5,11 @@ permalink: /excerpts/
 ---
 Interesting excerpts I've come across.
 
+> RAD has a small staff of really smart programmers that can code, write documentation, and provide great technical support. Unlike most companies, we want our smart people working on documentation and supporting our customers - that's the way our products get better!
+> After all, how would we know if the documentation needed clarification if we didn't talk to the developers? How would we know if some API was too complicated without trying to walk someone through it over the phone?
+> It is this circle of development (code->documentation->support->code) that we think makes our products unique. When you use our products, it should feel like an API that you designed yourself.
+- [RAD Gametools](https://www.radgametools.com/aboutrad.htm)
+
 >"I made a discovery today.  I found a computer.  Wait a second, this is cool.  It does what I want it to.  If it makes a mistake, it's because I screwed it up.
 > Not because it doesn't like me...
 >Or feels threatened by me...
