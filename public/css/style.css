@@ -1,29 +1,39 @@
+/* Header Title */
+header h1,
+.site-title {
+    font-size: 2.5em;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
 /* Base */
 body {
     font-family: "Georgia", serif;
     font-size: 16px;
     line-height: 1.8;
-    background-color: #f9f9f9; /* Light grey for easy reading */
-    color: #333; /* Dark grey text */
+    background-color: #f9f9f9;
+    color: #333;
     margin: 0;
     padding: 0;
 }
 
 /* Links */
 a {
-    color: #0077cc; /* Subtle blue */
-    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
 }
 a:hover {
     text-decoration: underline;
+    opacity: 0.8;
 }
 
-/* Margins and Layout */
+/* Layout */
 main {
-    max-width: 60ch; /* Restrict content width for readability */
-    margin: 2rem auto;
+    max-width: 60ch;
+    margin: 2rem auto 0 auto;
     padding: 1rem;
 }
+
 header, footer {
     max-width: 60ch;
     margin: 0 auto;
@@ -31,12 +41,12 @@ header, footer {
     text-align: center;
 }
 
-/* Margin Notes (Dynamic Notes on the Side) */
+/* Margin Notes */
 .note {
     position: relative;
     font-size: 0.9em;
-    color: #666; /* Lighter grey */
-    margin-left: 5ch; /* Add space on wide screens */
+    color: #666;
+    margin-left: 5ch;
 }
 
 /* Code Blocks */
@@ -51,9 +61,12 @@ code {
 footer {
     font-size: 0.8em;
     color: #999;
+    border-top: 2px solid #000;
+    margin-top: 2rem;
+    padding-top: 1rem;
 }
 
-/* articles */
+/* Articles */
 article p {
     font-size: 1rem;
     line-height: 1.5;
@@ -67,16 +80,7 @@ article p span {
     color: #666;
 }
 
-article p a {
-    text-decoration: none;
-    color: #0073e6;
-}
-
-article p a:hover {
-    text-decoration: underline;
-}
-
-
+/* Metadata Box */
 .metadata-box {
     border: 1px solid #ddd;
     padding: 10px;
@@ -93,22 +97,8 @@ article p a:hover {
     color: #333;
 }
 
-.metadata-box a {
-    color: #007acc;
-    text-decoration: none;
-}
-
-.metadata-box a:hover {
-    text-decoration: underline;
-}
-
-/* Find the section controlling the main title/heading */
-.content h1 {
-    color: #000000; /* Change this to black */
-}
-
-/* If the above doesn't work, you might need to be more specific */
-.content .post-title h1,
-.content .post-header h1 {
+/* Main Text */
+p b {
     color: #000000;
+    font-weight: bold;
 }
