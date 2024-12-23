@@ -1,0 +1,466 @@
+* [33mcac53c5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m second try
+* [33m9b8b3ca[m Add GitHub Actions workflow for Hugo
+[31m|[m * [33me69cb9e[m[33m ([m[1;31morigin/main[m[33m)[m Create README.md
+[31m|[m[31m/[m  
+* [33m04de4b4[m New site in hugo
+* [33m61ef6a5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update _config.yml
+* [33m0178f09[m Update about.md
+* [33mf625c98[m Update 2024-7-10-ideas.md
+* [33mcc408aa[m Update 2024-7-10-ideas.md
+* [33m00966ac[m Update 2024-7-10-ideas.md
+* [33me3621ca[m Update 2024-7-10-ideas.md
+* [33m6059f21[m Update 2024-7-10-ideas.md
+* [33m4f5ff21[m Create 2024-7-10-ideas.md
+* [33m17d0e87[m Update 2024-5-6-hack.md
+* [33m4bc7389[m Update 2024-5-6-hack.md
+* [33m16b4921[m Update 2024-5-6-hack.md
+* [33m13ccf2a[m Update 2024-5-6-hack.md
+* [33m850bc7b[m Update 2024-5-6-hack.md
+* [33m547fc93[m Update 2024-5-6-hack.md
+* [33me0bb4f9[m Create 2024-5-6-hack.md
+* [33m67d6faa[m Update excerpts.md
+* [33mf1be544[m Update excerpts.md
+* [33m98853a8[m Update excerpts.md
+* [33m69c3dda[m Update 2023-11-20-What-is-science.md
+* [33m862e531[m Create 2023-11-20-What-is-science.md
+* [33ma951677[m Update excerpts.md
+* [33me461b65[m Update excerpts.md
+* [33m4b5d888[m Update _config.yml
+* [33m4d8c2ce[m Update 2023-6-9-decisions-on-work.md
+* [33m184632f[m Rename 2023-6-9-decisions-on-work to 2023-6-9-decisions-on-work.md
+* [33ma173268[m Create 2023-6-9-notes-decisions-on-work
+* [33mb3a4da5[m Update default.html
+* [33m8839e47[m Update index.html
+* [33m9af9c18[m Add files via upload
+* [33m06237b8[m Update about.md
+* [33m9b455e6[m Rename 2022-03-12-Sounds-Of-Silence.md to 2022-3-12-Sounds-Of-Silence.md
+* [33m3ce9abe[m Rename 2022-01-30-The_Internet.md to 2022-1-30-The_Internet.md
+* [33me0f3eb1[m Update _config.yml
+* [33m4268370[m Delete 2023-05-28-my-post.md
+* [33mc38b2ca[m Add files via upload
+* [33mef3cf36[m Create 2023-05-28-my-post.md
+* [33mf4695c5[m Delete _posts
+* [33m0d2e566[m Create _posts
+* [33ma19f798[m Delete 2014-3-3-Hello-World.md
+* [33mea2d459[m Update _config.yml
+*   [33m12cb8a2[m Merge pull request #993 from italohdc/master
+[33m|[m[34m\[m  
+[33m|[m * [33m824a230[m Permalink on 404.md
+[33m|[m[33m/[m  
+*   [33m7afdb99[m Merge pull request #983 from isseiler/patch-1
+[35m|[m[36m\[m  
+[35m|[m * [33mdf46d6d[m Updated the schemes in the sample links to HTTPS instead of HTTP
+[35m|[m[35m/[m  
+* [33m8b0af42[m Update _svg-icons.scss
+*   [33m6b52dbb[m Merge pull request #478 from nscyclone/a-typo-fix-in-readme
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m53140f1[m Fixed a typo in 'README.md'.
+[1;31m|[m[1;31m/[m  
+* [33mfc5731a[m Jekyll 3 message at top of readme :sparkles:
+* [33mda13f8d[m Tagging v1.2.0 :sparkles:
+*   [33m8970045[m Merge pull request #373 from yzyzsun/patch-1
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m895b2fd[m Add .jekyll-metadata to .gitignore
+* [1;34m|[m   [33m3f0daa7[m Merge pull request #410 from genericmethod/patch-1
+[1;35m|[m[1;36m\[m [1;34m\[m  
+[1;35m|[m * [1;34m|[m [33mc50a0d2[m Fix spelling mistake in README
+[1;35m|[m [1;34m|[m[1;34m/[m  
+* [1;34m|[m [33m844996f[m Readme.md: git clone via HTTPS
+* [1;34m|[m [33m2cb59a1[m Minor _config.yml tab consistency fix
+* [1;34m|[m   [33m2538425[m Merge pull request #445 from barryclark/kramdown-and-rouge
+[1;34m|[m[32m\[m [1;34m\[m  
+[1;34m|[m [32m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[32m|[m   
+[1;34m|[m * [33m8c8154b[m Move to Kramdown and Rouge
+[1;34m|[m[1;34m/[m  
+*   [33mda5c21a[m Merge pull request #344 from praseodym/patch-1
+[33m|[m[34m\[m  
+[33m|[m * [33m2e2c1f1[m Update analytics snippet to use baseurl
+* [34m|[m   [33me9d91bc[m Merge pull request #339 from omgmog/master
+[35m|[m[36m\[m [34m\[m  
+[35m|[m * [34m|[m [33mebb9814[m Removed +x on style.scss Fixes #204
+[35m|[m [34m|[m[34m/[m  
+* [34m|[m   [33me7aa699[m Merge pull request #343 from fleeting/master
+[1;31m|[m[1;32m\[m [34m\[m  
+[1;31m|[m * [34m|[m [33m6d291c9[m Adding the official jekyll-feed gem for atom/rss feed.
+[1;31m|[m [34m|[m[34m/[m  
+* [34m|[m   [33mca05a83[m Merge pull request #346 from Daniel15/patch-1
+[34m|[m[1;34m\[m [34m\[m  
+[34m|[m [1;34m|[m[34m/[m  
+[34m|[m[34m/[m[1;34m|[m   
+[34m|[m * [33md2d123c[m Remove reference to 0.0.0.0
+[34m|[m[34m/[m  
+*   [33m0b7e2f5[m Merge pull request #199 from dijonkitchen/patch-2
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33me972568[m Update 404.md
+[1;35m|[m[1;35m/[m  
+*   [33mfb2f50b[m Merge pull request #187 from frenchie16/jekyll-now/master
+[31m|[m[32m\[m  
+[31m|[m * [33mac82e68[m Exclude CNAME
+[31m|[m[31m/[m  
+*   [33m0644ab5[m Merge pull request #183 from eringrand/patch-1
+[33m|[m[34m\[m  
+[33m|[m * [33m33d1035[m Update _svg-icons.scss
+[33m|[m[33m/[m  
+* [33mc6b6dfb[m Adding Colton and Trace to credits :raised_hands:
+*   [33ma575848[m Merge branch 'sunnankar-patch-1'
+[35m|[m[36m\[m  
+[35m|[m * [33ma90775d[m Merge branch 'patch-1' of https://github.com/sunnankar/jekyll-now into sunnankar-patch-1
+[35m|[m[35m/[m[1;32m|[m 
+[35m|[m * [33mfd977db[m Update svg-icons.html
+* [1;32m|[m   [33me6577ed[m Merge pull request #158 from coltonfitzgerald/master
+[1;33m|[m[1;34m\[m [1;32m\[m  
+[1;33m|[m * [1;32m|[m [33m1d3f019[m Compress Images
+[1;33m|[m [1;32m|[m[1;32m/[m  
+* [1;32m|[m   [33mc6b833e[m Merge pull request #138 from eringrand/G+icon
+[1;32m|[m[1;36m\[m [1;32m\[m  
+[1;32m|[m [1;36m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;36m|[m   
+[1;32m|[m * [33md8d1244[m added ability to include G+ icon
+[1;32m|[m * [33mb56f969[m added G+ icon to svq-icons
+[1;32m|[m[1;32m/[m  
+* [33m5be6775[m Adding Clayton to the credits ￼:raised_hands:
+*   [33m3e76113[m Merge pull request #122 from cjerrington/patch-3
+[31m|[m[32m\[m  
+[31m|[m * [33mf2246dc[m remove whitespace
+[31m|[m * [33m9f23e44[m improve the quality of anaytics
+* [32m|[m [33mbc9199b[m Added in instructions for contributing
+* [32m|[m [33m70fda2a[m Adding Dean Attali into the credits :raised_hands:
+* [32m|[m   [33m2f7f1cd[m Merge pull request #126 from daattali/patch-1
+[33m|[m[34m\[m [32m\[m  
+[33m|[m * [32m|[m [33m0bc1730[m disqus_identifier param is not used
+* [34m|[m [32m|[m [33m4509de3[m :sparkles: Version bump to v1.1.0 :sparkles:
+[34m|[m[34m/[m [32m/[m  
+* [32m|[m [33mac1cf36[m Using post.excerpt in index.html (closes #117)
+* [32m|[m [33md824fd8[m Improve metadata for posts and pages (closes #50)
+[32m|[m[32m/[m  
+* [33me29df68[m Removing emoji from Hello World blog post
+* [33mfeddf2b[m Adding @LeoColomb and @ErinGrand to the credits!
+* [33mb83d46f[m Move Sass to default _sass directory via @LeoColomb #39
+* [33m1970612[m meta declarations pointed out by @LeoColomb in #39
+* [33m282a3c0[m License date bump
+* [33mf3ce434[m Removing all of the trailing whitespace
+* [33ma8a038d[m Clarified comment about Disqus shortname
+*   [33ma8abba4[m Merge pull request #121 from eringrand/youtuberepo
+[35m|[m[36m\[m  
+[35m|[m * [33md547da8[m modifed for theme
+[35m|[m[35m/[m  
+*   [33mf35771a[m Merge pull request #77 from jaminscript/fix-google-translate-bubble
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33me944eb0[m Resolves #72 by overriding an img style
+[1;31m|[m[1;31m/[m  
+*   [33m8e77d14[m Merge pull request #76 from rnicholus/syntax-highlighting
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m2f04c03[m Better syntax highlighting
+* [1;34m|[m [33m0bdcb9b[m Adding more contributors :raised_hands:
+* [1;34m|[m [33m79744a7[m Dropping gemoji
+* [1;34m|[m   [33m1a40b26[m Merge pull request #47 from jaminscript/move-svg-to-css
+[1;34m|[m[1;36m\[m [1;34m\[m  
+[1;34m|[m [1;36m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m   
+[1;34m|[m * [33m404ddf2[m Change how SVG icons are included in pages
+[1;34m|[m[1;34m/[m  
+* [33m8e81837[m Readme: removing new themes email drop
+* [33md1fd3a6[m Adding Henry Stanley to readme credits :raised_hands:
+*   [33mceadb3b[m Merge pull request #38 from henryaj/master
+[31m|[m[32m\[m  
+[31m|[m * [33meb6cff2[m Teeny tiny typo fixes to README
+[31m|[m[31m/[m  
+* [33m8bfd9c9[m Updating readme to mention that it can take 10 minutes - closes #37
+* [33m617c176[m Updated readme to make local dev installation steps a little easier.
+* [33m67d2f75[m Updated readme installation steps to use GitHub Pages :gem:
+* [33m9826c6c[m Add credits for Florian Simon :raised_hands:
+*   [33m5e4f072[m Merge pull request #31 from vermluh/icons2
+[33m|[m[34m\[m  
+[33m|[m * [33mef2186d[m Update stackoverflow.html
+* [34m|[m [33mbfa9d5a[m Added Hun Jae Lee to credits :raised_hands:
+[34m|[m[34m/[m  
+*   [33m0575366[m Merge pull request #28 from etelej/j-now
+[35m|[m[36m\[m  
+[35m|[m * [33mbbc3e29[m Fix duplicate meta charset declaration
+* [36m|[m   [33m875917a[m Merge pull request #26 from hunjaelee/patch-1
+[36m|[m[1;32m\[m [36m\[m  
+[36m|[m [1;32m|[m[36m/[m  
+[36m|[m[36m/[m[1;32m|[m   
+[36m|[m * [33m0fdf013[m Fix mailto link code
+[36m|[m[36m/[m  
+* [33m7c425a1[m Peter Etelej credits shout out
+*   [33m0ac1710[m Merge pull request #23 from etelej/j-now
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33mcfd645e[m Update feed.xml Layout declaration
+[1;33m|[m[1;33m/[m  
+* [33m52fd2bc[m removing newsletter plug from readme
+* [33m5dc4330[m Visual improvements to the font weight of headers
+* [33m048f23c[m Bold headers fix for Windows browsers
+*   [33m6642cce[m Merge pull request #17 from esteinborn/patch-1
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33m14f665d[m Update to Universal Google Analytics Script
+[1;35m|[m[1;35m/[m  
+* [33m36b4c9b[m Readme love for Bart Kiers and Javier Cejudo
+* [33m615f8ca[m Add permalink with trailing slash to about page Fixes #13
+*   [33m3a1aa66[m Merge pull request #15 from javiercejudo/patch-1
+[31m|[m[32m\[m  
+[31m|[m * [33md035ea2[m Adds trailing slash to avoid 301 redirects
+* [32m|[m   [33ma865b32[m Merge pull request #16 from javiercejudo/patch-2
+[32m|[m[34m\[m [32m\[m  
+[32m|[m [34m|[m[32m/[m  
+[32m|[m[32m/[m[34m|[m   
+[32m|[m * [33m21e4160[m Adds site description to the RSS link title
+[32m|[m * [33m0f06c36[m Adds link element for RSS feed
+[32m|[m[32m/[m  
+*   [33m52fde56[m Merge branch 'master' of github.com:barryclark/jekyll-now
+[35m|[m[36m\[m  
+[35m|[m *   [33mee57e99[m Merge pull request #6 from bkiers/stackoverflow-svg
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m * [33mca618a6[m Added stackoverflow SVG.
+[35m|[m [1;31m|[m[1;31m/[m  
+* [1;31m/[m [33m0ad1caa[m Added Michael Rose themes to recommended list
+[1;31m|[m[1;31m/[m  
+*   [33m5de9557[m Merge pull request #3 from javiercejudo/patch-1
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m95c57f4[m Remove duplicated viewport meta tag
+[1;33m|[m[1;33m/[m  
+* [33mf83c9de[m Readme: Smashing Mag link updated - Fixes #1
+* [33mf976ad9[m Readme: Added comment about making Windows setup easier
+* [33ma06e704[m Readme: Moving newsletter CTA to the bottom
+* [33m765346e[m Added information about Smashing Mag walkthrough
+* [33m1feb9b6[m Use the markdown style guide that's on www.jekyllnow.com
+* [33m5d93016[m v1.0.0 release
+* [33m2d838a3[m Newsletter url update
+* [33m4102f02[m Add in link for Smashing Magazine walkthrough
+* [33m72e25f3[m Readme: Tidied up the credits
+* [33mff31cd9[m Quick readme re-order
+* [33m210d977[m Added local development instructions
+* [33mc2d379c[m Clean out grunt stuff from _config.yml excludes
+* [33m23d88f2[m CSS comments tidy up
+* [33mc2838aa[m Add syntax highlighting styles to credits
+* [33m15918f7[m Newsletter CTA copy update
+* [33m6955d77[m Update Sass files to be built by GitHub Pages
+* [33m893f2bb[m Update the newsletter link
+* [33m95b0a26[m Goodbye Gruntfile - you have served me well
+* [33m06070b4[m Added newsletter call to action to the top of the readme
+* [33med4f830[m i and em are italics, b and strong are bold
+* [33m655bd12[m Because Luke
+* [33md7dbbf8[m Slight tweak to spacing between masthead and content
+* [33m2dd2f78[m Change visual style of read more links
+* [33m74f0035[m Increased post title font-weight
+* [33m69b5882[m Included an email list for theme updates
+* [33m36fd38f[m Copy update on first post
+* [33md5069ba[m Minor readme updates
+* [33m858e7e5[m Changed version to beta in _config.yml
+* [33ma495739[m Update default github icon to point to jekyll now repo
+* [33mb177a40[m Removed unused image files
+* [33mebeecf0[m Move to mobile view earlier at 640px
+* [33mbdddc6b[m Added release configuration flag
+* [33me7b254b[m write epic blog posts
+* [33mdf79f8e[m Tweak spacing on navigation
+* [33mea1c005[m Removing Gemfile from repo
+* [33m5c9198c[m Adding specific jekyll-sitemap version to Gemfile
+* [33m04ea9f2[m Don't need to add the Gemfile to the repo
+* [33m29a8751[m README: Removed first theme demo link, there's a big screenshot now
+* [33m348fb79[m README: Moved theme demo link below screenshot
+* [33m5e1e22d[m Updated theme screenshot to include browser chrome
+* [33mf128def[m Adding Gemfile to repo as we're using Jemoji and Jekyll-Sitemap gems
+* [33mc92a708[m It's called a Disqus shortname, not username
+* [33m78d61e4[m It's called a Disqus shortname, not username
+* [33m84752bd[m Removed old sitemap
+* [33m635a2b7[m Switched from my own sitemap.xml to the official Jekyll gem
+* [33mf070f47[m Readme prose updates
+* [33ma06b7de[m Add in Prose.io instructions
+* [33m8e73984[m Readme: Typo
+* [33m1ea8554[m Readme: Re-ordered themes sections
+* [33mb0b09ed[m Readme: Reworked other forkable themes section
+* [33m12f8c95[m Readme: Reworked other forkable themes section
+* [33m4df1021[m Resize the image on the 404 page
+* [33m47e76dd[m Updated 404 page to fix links
+* [33m6e7dd09[m Added a 404 page
+* [33mfda8d43[m Moved SVG icon markup to an include
+* [33m516a870[m Adding screenshot of the theme into the readme
+* [33mca232e1[m New quick start demo gif
+* [33m51b79dc[m Readme: hacker portfolio theme
+* [33mf030f7d[m Added recommended themes section to readme
+* [33m8d1fc20[m README.md explaining creating new posts in the browser
+* [33ma1dcbe0[m Give the comments some breathing room
+* [33mdc8f1d9[m README.md clarifying how rebuild works
+* [33m79fae65[m Minor readme update
+* [33m8375540[m Updated README with new instructions on forcing your site live
+* [33mbb7bb24[m Corrected post linked in feed.xml
+* [33m949be13[m ups, no trailing slash in baseurl
+* [33m89e7659[m Extra / in Hello World image reference
+* [33m9e75552[m Don't need the /
+* [33mb491bc6[m Updating index.html links to include baseurl
+* [33m1011dd7[m Updating Hello World blog post image reference
+* [33mebe82b5[m Readme typo fix
+* [33md26d457[m A few minor readme edits
+* [33m5209833[m Little 1px border-bottom on the footer
+* [33m54d20da[m * { Box-sizing: Border-box } FTW
+* [33m2925163[m blockquoting readme cloning down tip
+* [33m5f83b91[m Updated readme Step 2 to touch on cloning down option
+* [33mab3fe59[m Give headers bold by default
+* [33m6abf490[m Slightly toning down h2s again
+* [33md63696d[m Largely unsuccessful attempt to fix markup tag indenting
+* [33m734a6bb[m Making syntax highlighting more readable
+* [33m5b34fba[m Might as well take IE8 and below support for 3 lines of code.
+* [33mfb61a1d[m Removed mobile width variable as it isn't used elsewhere
+* [33m4b68084[m Removed light gray as it isn't used
+* [33me9a65e6[m Clear up color variable usage in the Scss
+* [33m3d5bee2[m Moving syntax highlighting to the bottom of the CSS file
+* [33m0dae8f2[m Created headers in SCSS to break things out more in the CSS file
+* [33mf264650[m Mobile header tweaks
+* [33m2e8d4bb[m Refactor of hyperlink styles and hover states
+* [33m9d6de3c[m Refactor of the nav, and added in new .clearfix
+*   [33m5ec5d05[m I am terrible at using git commit --amend
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33m583c861[m Explaining baseurl in _config.yml
+* [1;36m|[m [33mdf705f6[m Moving secret head comment lower
+* [1;36m|[m [33m06a7025[m Explaining baseurl in _config.yml
+[1;36m|[m[1;36m/[m  
+* [33m7ceaee1[m Re-ordered _config.yml
+* [33m790d93f[m Fixed URL links in RSS feed
+* [33m59d4012[m Adding in baseurl to support hosting at project repos
+* [33m3bfcb12[m Rolling without HTML5 shiv, because don't need IE8 support
+* [33m7163abf[m Added Jekyll Now comment in to the top of the head markup
+* [33m195ec19[m Readme tweaks
+* [33m0a27220[m Put the first post image below the instructional copy
+* [33me316ee0[m Updated image link in first post
+* [33m59ecb43[m Updates tutorial images
+* [33m09eaa9a[m Resizes tutorial images to be smaller so they won't scale down as much
+* [33mc022eff[m Changed tutorial images to pngs
+* [33m8630f99[m Changes tutorial pics to use GitHub.com UI
+* [33m342f754[m Misc readme updates
+* [33ma17b7a9[m More time making your blog awesome
+* [33m1588ac5[m Easy to try out
+* [33m57afd54[m Explain Jekyll and link to jekyll/jekyll at top of readme
+* [33m397c5e4[m Link the user to a markdown cheatsheet
+* [33m611659f[m Readme: ... but it can take up to 10 minutes
+* [33m4cbf119[m Readme: Make it really clear that you can view your site right after forking
+* [33m927bd3f[m Use a hard-coded link to the Jekyll logo, hosted on jekyll-now
+* [33m773de6b[m Use Jekyll's profile pic as the placeholder
+* [33m3860135[m Reordered _config.yml for better first run experience
+* [33m7f555b5[m Fixed blue post titles on hover
+* [33m33a2096[m Post headers glow blue instead of underlining
+* [33m1423f65[m Decrease header line-height on mobile
+* [33mbef20c4[m Toned down h2-h4 sizes
+* [33m1d2c8ce[m Don't display a dividing line under the last post on the blog
+* [33m64083d6[m Only include Google Analytics markup if an account has been entered
+* [33mf521f8a[m Only include Disqus markup if an account has been entered
+* [33ma31c079[m Documentation updates.
+* [33m44edb2c[m Removing everything from the CNAME file
+*   [33m7a5ef72[m Merge branch 'master' of github.com:barryclark/jekyll-now
+[31m|[m[32m\[m  
+[31m|[m * [33mc662a31[m Update CNAME
+* [32m|[m [33m370386f[m Removed some unused images
+[32m|[m[32m/[m  
+* [33md7c0f5b[m README: Updated credits formatting
+* [33m27b6bec[m Added Jon and Dave to review credits
+* [33m8d6f8a7[m Lighten up description and border-bottom in the header
+* [33m04c0fac[m Documentation
+* [33m304427f[m readme tweakery #1000
+* [33m9f49972[m Clarified emoji in readme
+* [33m8a031c2[m More readme tweakery
+* [33m07c5286[m Greatly simplified readme
+* [33m15e1f85[m Readme update
+* [33m64a0744[m Readme update
+*   [33m74c851c[m Merge branch 'master' of github.com:barryclark/jekyll-now
+[33m|[m[34m\[m  
+[33m|[m * [33m51380cd[m Readme update
+* [34m|[m [33m933eef4[m Readme update
+[34m|[m[34m/[m  
+* [33m2e467cd[m Readme update: theme
+* [33m940f79c[m Readme tweakery for life
+* [33ma917602[m Fixed RSS footer link
+* [33m9be2b1a[m Readme updates
+* [33m6207594[m Readme updates: theme screenshots and problem description
+* [33m32e8a75[m Readme update: credits update
+* [33m4009c50[m Readme update: added a couple mor features
+* [33mc1a012b[m Readme update: features
+* [33m0c35dde[m More sparkle. More hearts.
+* [33m32f9970[m Less gifs in the README.md - cutting the load time down
+* [33m4d86a8f[m Hello World post update
+* [33m9de3c00[m Fixes Disqus integration
+* [33m7aa77e0[m Avatar height fix
+* [33m5046dd8[m The first Emoji--yay
+* [33md744ff5[m Tweaks to the header style
+* [33mf54107a[m Updates to Hello World post
+* [33mbe6fe15[m Added site description to <title>
+* [33m6b1d9f5[m Read More links are back in the main view
+* [33m4d4a5eb[m New Hello World post for a better first run experience
+* [33m5f64c1b[m Horrifyingly hacky <br> header fix, will fix soon
+* [33m84e10c2[m Mobile breakpoint pass -- header especially
+* [33m6de8b05[m Comment updates to _config.yml
+* [33m284cb21[m Footer link URL fix for dribbble
+* [33m0340970[m Added sitemap.xml
+* [33m6db3f0b[m RSS feed option added
+* [33m826df31[m Corrected footer icon urls
+* [33m753bea9[m SVG icons for every major social network, hooked up to _config.yml
+* [33me379870[m Full width header/footer with background colors
+* [33m1f2db3b[m Removed post dates from indexes, now only at bottom of the post
+* [33mbe77547[m Jemoji
+* [33m7663dd6[m Removed Read More buttons
+* [33mf2d11be[m Added baseurl
+* [33m3c8ceb6[m Updated syntax highlighting flag in config
+* [33m1fd9d4d[m Remove Chrome from head
+* [33m6162c15[m social icons for github and twitter as pngs
+* [33m649b282[m another sample post for theme development for now
+* [33m5c2832e[m Linked blogpost headers on homepage up to posts
+* [33mea558e6[m Tweaks to Hello World post
+* [33ma7bbdb4[m Neatened up masthead & added a blog description
+* [33mbf24977[m Readme updates
+* [33m6d9d683[m Switch to Kramdown due to rdiscount issues (also https://github.com/jekyll/jekyll/pull/1988)
+* [33m3cc9f40[m updated readme
+* [33mc92dc38[m updated readme
+* [33m75b46c1[m updated readme
+* [33mb9fd098[m updated readme
+* [33mef6fa04[m updated readme
+* [33m27ed849[m Added step 2 and 3 gifs to the readme
+* [33m3791720[m readme updates
+* [33mba1db68[m readme updates
+* [33m5aed4fe[m Updated readme with setup gif
+* [33m4ae9b61[m Setup gif mvp
+* [33md5c9684[m OMG gifs in a readme
+*   [33m1474cf3[m Merge branch 'master' of github.com:barryclark/jekyll-now
+[35m|[m[36m\[m  
+[35m|[m * [33mce53f2e[m Some renaming from Jekyll Kickstart to Jekyll Now
+* [36m|[m [33m4bf8bd9[m Config file commenting
+[36m|[m[36m/[m  
+* [33mcd475de[m README edits
+* [33m7b63a01[m README edits
+* [33mb693d34[m README edits
+* [33mf39cedf[m README edits
+* [33m13d5a74[m Let's tell a story in the README.
+* [33m628fcf4[m Quick readme rejiggery
+* [33m829cfb0[m Added local development workflow instructions
+* [33m5d90e38[m Readme update: 5 minute setup
+* [33mbee001e[m Readme update: 5 minute setup
+* [33m208d8d0[m Removed license from readme
+* [33m2dad241[m Generalised config variable placeholders.
+* [33m57b3240[m Updated Hello World post to reference new image.
+* [33mfe1553b[m Updated images.
+* [33m0c51f66[m Don't need <header> tag around <h1> on blog posts.
+* [33mee6bb12[m Updated Hello World post
+* [33m3ac14cc[m Updated Hello World post
+* [33m7864db4[m Updated posts.
+* [33m7e93b3b[m Rename to Jekyll Kickstart
+* [33m5c6d8e0[m Added CNAME placeholder
+* [33md7be273[m Documentation updates
+* [33mfbe5d31[m Documentation updates
+* [33mf4b5b54[m Added license.
+* [33m1faf98e[m Readme updates
+* [33m2c07e25[m Added theme screenshot
+* [33m7c62991[m Added theme screenshot
+* [33m4491dce[m Documentation++
+* [33m749ed2c[m Documentation++
+* [33m7ed20a6[m Documentation++
+* [33md1cd52c[m Syntax highlighting.
+* [33mb183842[m Switched from redcarpet to rdiscount for markdown
+* [33mcbdd8d2[m Shouting out other Jekyll starting points in the readme
+* [33m0df8994[m Style Guide, and all markdown content styled
+* [33m9931bd1[m First pass at masthead styling.
+* [33mdb4dcea[m Lots of style updates
+* [33m6c7ba1b[m Deleting a couple of old files.
+* [33ma0d3ee1[m Homepage blog format updates.
+* [33mcbfcf3a[m Readme updates
+* [33mc3e313b[m Added blog to front page.
+* [33ma6da2ba[m Include site name in header
+* [33m4b9b856[m Decreased width
+* [33m72ac450[m First commit of base theme.
