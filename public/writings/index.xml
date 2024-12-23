@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writings on Jayesh Nair</title>
+    <link>http://nairjayesh.github.io/writings/</link>
+    <description>Recent content in Writings on Jayesh Nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://nairjayesh.github.io/writings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Hacking: A reading List</title>
+      <link>http://nairjayesh.github.io/writings/2024-5-6-hack/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2024-5-6-hack/</guid>
+      <description>Reading lists I&amp;rsquo;d like to maintain on the subject of hacking that I&amp;rsquo;ve found to resonate with me!
+Thankyou to the authors for publishing on the Internet!
+from ESR&amp;rsquo;s Jargon File:
+ hacker: n. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. RFC1392, the Internet Users&#39; Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.</description>
+    </item>
+    
+    <item>
+      <title>What to work on?</title>
+      <link>http://nairjayesh.github.io/writings/2023-6-9-decisions-on-work/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2023-6-9-decisions-on-work/</guid>
+      <description>Update:
+What to work on? What to learn and how to think about this question of spending majority of your time into something? I have been trying to figure out answers to questions as well, and it&amp;rsquo;s not straight-forward.
+I feel our culture / written works around these questions, have a lot of different opinions, and mostly leave out the messy part - the empty dread of not knowing what comes next when you decide upon something.</description>
+    </item>
+    
+    <item>
+      <title>An Ode to the Internet</title>
+      <link>http://nairjayesh.github.io/writings/2022-1-30-the_internet/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2022-1-30-the_internet/</guid>
+      <description>I. On August 15, 1995, Indians woke up to the tariff plan of a new sort of communication service. They could buy dial-up internet.
+At Rs 15,000 a year, it was not quite something the average Indian could afford then.
+I was still a young kid when I had a glimpse of the Internet1. The old dial-up connection tones, the slow speeds and hefty charges levied. But I was part of the generation that grew up with it’s evolving use cases.</description>
+    </item>
+    
+    <item>
+      <title>Recurring Ideas</title>
+      <link>http://nairjayesh.github.io/writings/2024-7-10-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2024-7-10-ideas/</guid>
+      <description>Ideas I often find repeating to myself.
+  The point of wealth is to enable yourself to pursue things for their own sake, but ironically, most times the greatest wealth comes to people who pursue things for their own sake to begin with.
+  Struggle is entirely pointless, a distraction, a time sink, a thing that hinders a person to get to a place. No matter how proud you are of your version of the rags to riches, the ill person to healthy, the addict to sober, they are time sinks.</description>
+    </item>
+    
+    <item>
+      <title>Sounds Of Silence</title>
+      <link>http://nairjayesh.github.io/writings/2022-3-12-sounds-of-silence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2022-3-12-sounds-of-silence/</guid>
+      <description>I. “What does silence sound like?” That is not the question I began my day with. I woke up with a cool breeze hitting my body, it is a summer morning - at the backdrop of a warm atmosphere, the fan was running at full speed.
+I checked the time - it was 6:45 AM. it was a pleasant surprise, I slept at 12:00 AM and half expecting myself to wake up early, I had an alarm for 7:15 AM.</description>
+    </item>
+    
+    <item>
+      <title>What is Science</title>
+      <link>http://nairjayesh.github.io/writings/2023-11-20-what-is-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/writings/2023-11-20-what-is-science/</guid>
+      <description>Note: This is a talk by Richard Feynmann, reproduced here so I could read it again, and preserve it from getting lost in the jungle of the internet archives.
+ Presented at the fifteenth annual meeting of the National Science Teachers Association, 1966 in New York City, and reprinted from The Physics Teacher Vol. 7, issue 6, 1969, pp. 313-320 by permission of the editor and the author. [Words and symbols in brackets added by Ralph Leighton.</description>
+    </item>
+    
+  </channel>
+</rss>

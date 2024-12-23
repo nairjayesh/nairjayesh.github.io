@@ -1,0 +1,5 @@
+baseURL = 'http://nairjayesh.github.io/'
+languageCode = 'en-us'
+title = 'Jayesh Nair'
+[frontmatter]
+  pluralizeListTitles = false

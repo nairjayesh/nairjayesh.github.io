@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jayesh Nair</title>
+    <link>http://nairjayesh.github.io/tags/</link>
+    <description>Recent content in Tags on Jayesh Nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://nairjayesh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hacking</title>
+      <link>http://nairjayesh.github.io/tags/hacking/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>http://nairjayesh.github.io/tags/links/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>philosophy</title>
+      <link>http://nairjayesh.github.io/tags/philosophy/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decisions</title>
+      <link>http://nairjayesh.github.io/tags/decisions/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/decisions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thoughts</title>
+      <link>http://nairjayesh.github.io/tags/thoughts/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explanibility</title>
+      <link>http://nairjayesh.github.io/tags/explanibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/explanibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://nairjayesh.github.io/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technical</title>
+      <link>http://nairjayesh.github.io/tags/technical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nairjayesh.github.io/tags/technical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

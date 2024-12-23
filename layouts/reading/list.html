@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article>
+    {{ .Content }}
+    
+    <ul>
+    {{ range sort (sort .Params.books "title" "asc") "author" "asc" }}
+        <li>{{ .author }} - <a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
+    {{ end }}
+    </ul>
+</article>
+{{ end }} 

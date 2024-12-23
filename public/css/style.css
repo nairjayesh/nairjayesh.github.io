@@ -1,0 +1,114 @@
+/* Base */
+body {
+    font-family: "Georgia", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    background-color: #f9f9f9; /* Light grey for easy reading */
+    color: #333; /* Dark grey text */
+    margin: 0;
+    padding: 0;
+}
+
+/* Links */
+a {
+    color: #0077cc; /* Subtle blue */
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Margins and Layout */
+main {
+    max-width: 60ch; /* Restrict content width for readability */
+    margin: 2rem auto;
+    padding: 1rem;
+}
+header, footer {
+    max-width: 60ch;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Margin Notes (Dynamic Notes on the Side) */
+.note {
+    position: relative;
+    font-size: 0.9em;
+    color: #666; /* Lighter grey */
+    margin-left: 5ch; /* Add space on wide screens */
+}
+
+/* Code Blocks */
+code {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #eaeaea;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+}
+
+/* Footer */
+footer {
+    font-size: 0.8em;
+    color: #999;
+}
+
+/* articles */
+article p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+article p span {
+    display: inline-block;
+    margin-right: 1rem;
+    font-style: italic;
+    color: #666;
+}
+
+article p a {
+    text-decoration: none;
+    color: #0073e6;
+}
+
+article p a:hover {
+    text-decoration: underline;
+}
+
+
+.metadata-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+}
+
+.metadata-box span {
+    font-size: 0.9em;
+    color: #333;
+}
+
+.metadata-box a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+.metadata-box a:hover {
+    text-decoration: underline;
+}
+
+/* Find the section controlling the main title/heading */
+.content h1 {
+    color: #000000; /* Change this to black */
+}
+
+/* If the above doesn't work, you might need to be more specific */
+.content .post-title h1,
+.content .post-header h1 {
+    color: #000000;
+}

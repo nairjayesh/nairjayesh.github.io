@@ -1,0 +1,104 @@
+/* Header Title */
+header h1,
+.site-title {
+    font-size: 2.5em;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+
+/* Base */
+body {
+    font-family: "Georgia", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Links */
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: underline;
+    opacity: 0.8;
+}
+
+/* Layout */
+main {
+    max-width: 60ch;
+    margin: 2rem auto 0 auto;
+    padding: 1rem;
+}
+
+header, footer {
+    max-width: 60ch;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Margin Notes */
+.note {
+    position: relative;
+    font-size: 0.9em;
+    color: #666;
+    margin-left: 5ch;
+}
+
+/* Code Blocks */
+code {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #eaeaea;
+    padding: 0.2rem 0.4rem;
+    border-radius: 3px;
+}
+
+/* Footer */
+footer {
+    font-size: 0.8em;
+    color: #999;
+    border-top: 2px solid #000;
+    margin-top: 2rem;
+    padding-top: 1rem;
+}
+
+/* Articles */
+article p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+article p span {
+    display: inline-block;
+    margin-right: 1rem;
+    font-style: italic;
+    color: #666;
+}
+
+/* Metadata Box */
+.metadata-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+}
+
+.metadata-box span {
+    font-size: 0.9em;
+    color: #333;
+}
+
+/* Main Text */
+p b {
+    color: #000000;
+    font-weight: bold;
+}
