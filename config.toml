@@ -1,5 +1,9 @@
-baseURL = 'http://nairjayesh.github.io/'
+baseURL = 'https://nairjayesh.github.io/'
 languageCode = 'en-us'
 title = 'Jayesh Nair'
-[frontmatter]
-  pluralizeListTitles = false
+
+[params]
+  description = "Personal website of Jayesh Nair"
+
+[markup.goldmark.renderer]
+  unsafe = true  # Allows HTML in markdown
