@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Sounds Of Silence
+date: 2022-03-12
+finished: true 
+tags: ["thoughts"]
 ---
 
 ### I. 
@@ -27,9 +30,7 @@ As the I walk along, I hear the birds chirpping occasionally, sometimes people l
 
 ### III. 
 
-I should do this today - maybe it’ll help in the coming week at work”, “She looks pretty”, “After this - chai for sure, or maybe go to Old Madras Baking Company and have a coconut bun”. We all get this thing - our minds they just never stop, and there is no theme - I keep thinking random things. Here’s a visual representation: 
-
-![]({{ site.baseurl }}/images/dancing Visuals GIF.gif)
+I should do this today - maybe it’ll help in the coming week at work”, “She looks pretty”, “After this - chai for sure, or maybe go to Old Madras Baking Company and have a coconut bun”. We all get this thing - our minds they just never stop, and there is no theme - I keep thinking random things. 
 
 That is why I only occasionally heard the birds chirping, occasionally saw the bend in the road, occasionally saw the lake - actually saw it, rest I didn’t remember how I got ahead of the road. 
 
@@ -39,14 +40,8 @@ One really misses something amazing in the hum-drum, and as I walked along, I wi
 
 Just below, two men were laying a net to catch fishes in the water.
 
-![]({{ site.baseurl }}/images/IMG_20220312_074959742.jpg)
-
 ### IV. 
 
-![]({{ site.baseurl }}/images/IMG_20220312_074936680.jpg)
-
-I passed through the Durgam Cheruvu bridge and was nearing the end of my walk, so far I have still had “Mukilinte” running in my head faintly. But as I walked through a small street, with a housing residency, to reach the hostel, I suddenly was aware, I just listened intently, the shrill of engines, people walking, children screaming there was no interference, I heard what I saw and Saw what I heard.
-
-I briefly managed to capture the audio recording [here](https://drive.google.com/file/d/1XFX-iQJJfVQKZyJiq3jC7c-BTV9bJ495/view?usp=sharing).
+I passed through the Durgam Cheruvu bridge and was nearing the end of my walk, so far I have still had “Mukilinte” running in my head faintly. But as I walked through a small street, with a housing residency, to reach the hostel, I suddenly was aware, I just listened intently, the shrill of engines, people walking, children screaming there was no interference, I heard what I saw and saw what I heard.
 
 And I just wondered: **Is this what Silence Sounds Like?**
