@@ -1,0 +1,10 @@
+baseURL = 'https://nairjayesh.githuub.io/'
+languageCode = 'en-us'
+title = 'Jayesh Nair'
+
+[params]
+  description = "Personal website of Jayesh Nair"
+
+[markup.goldmark.renderer]
+  unsafe = true  # Allows HTML in markdown
+

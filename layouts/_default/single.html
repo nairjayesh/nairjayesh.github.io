@@ -1,0 +1,29 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+
+    <!-- Metadata Box -->
+    <div class="metadata-box">
+        <span><strong>Date:</strong> {{ .Date.Format "2006-01-02" }}</span>
+        {{ with .Params.lastmod }}
+            <span><strong>Last Modified:</strong> {{ . | dateFormat "2006-01-02" }}</span>
+        {{ end }}
+        <span><strong>Status:</strong>
+            {{ if .Params.finished }}
+                Finished
+            {{ else }}
+                Unfinished
+            {{ end }}
+        </span>
+        <span><strong>Tags:</strong>
+            {{ range $index, $tag := .Params.tags }}
+                <a href="/tags/{{ $tag | urlize }}">{{ $tag }}</a>{{ if ne $index (sub (len $.Params.tags) 1) }}, {{ end }}
+            {{ end }}
+        </span>
+    </div>
+
+    <p>{{ .Params.description }}</p>
+    {{ .Content }}
+</article>
+{{ end }}
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explanibility on Jayesh Nair</title>
+    <link>http://localhost:1313/tags/explanibility/</link>
+    <description>Recent content in Explanibility on Jayesh Nair</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/explanibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNNs vs Transformers: An investigation</title>
+      <link>http://localhost:1313/notes/cnn-vit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/cnn-vit/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

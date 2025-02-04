@@ -1,0 +1,17 @@
+{{ define "main" }}
+    {{ if gt (len .Pages) 1 }}
+        <h1>{{ .Title }}</h1>
+        <!-- Render the list of pages if there are multiple pages -->
+        <ul>
+        {{ range .Pages }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+        </ul>
+    {{ else }}
+        <!-- Render the single page directly if there's only one -->
+        {{ range .Pages }}
+            <h1>{{ .Title }}</h1>
+            <div>{{ .Content }}</div>
+        {{ end }}
+    {{ end }}
+{{ end }}

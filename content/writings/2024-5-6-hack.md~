@@ -1,0 +1,68 @@
+---
+title: Hacking Reading List 
+finished: true 
+date: 2024-05-06 
+tags: ["links", "philosophy", "hacking"]
+description: "Helpful links I've found to learn more about Hacking and the philosophy behind it."
+---
+
+Reading lists I'd like to maintain on the subject of hacking that I've found to resonate with me!
+
+Thankyou to the authors for publishing on the Internet!
+
+from ESR's Jargon File:
+
+>hacker: n.
+> A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. \
+> RFC1392, the Internet Users' Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.
+
+[How to become a Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
+-Eric S. Raymond (ESR)
+
+[How to learn Hacking](http://catb.org/~esr/faqs/hacking-howto.html)
+-Eric S. Raymond (ESR)
+
+[Teach Yourself Programming in 10 Years](https://norvig.com/21-days.html)
+-Peter Norvig
+
+[Hackers and Painters](https://paulgraham.com/hp.html)
+-Paul Graham
+
+[The Word "Hacker"](https://paulgraham.com/gba.html)
+-Paul Graham 
+
+[Great Hackers](https://paulgraham.com/gh.html)
+-Paul Graham
+
+[Undergraduation](https://paulgraham.com/college.html)
+-Paul Graham 
+
+[Semantic Compression](https://caseymuratori.com/blog_0015)
+-Casey Muratori
+
+[Complexity and Granularity](https://caseymuratori.com/blog_0016)
+-Casey Muratori
+
+[Learnable Progarmming](https://worrydream.com/LearnableProgramming/)
+-Bret Victor
+
+[What's the big idea? Toward a pedagogy of idea power](https://worrydream.com/refs/Papert_2000_-_Whats_the_Big_Idea,_Toward_a_Pedagogy_of_Idea_Power.pdf)
+-Seymour Papert 
+
+[Teaching Children Thinking](https://worrydream.com/refs/Papert_1971_-_Teaching_Children_Thinking.pdf)
+-Seymour Papert
+
+[Teaching Children to be Mathematicians vs Teaching About Mathematics](https://worrydream.com/refs/Papert_1971_-_Teaching_Children_to_be_Mathematicians_vs._Teaching_About_Mathematics.pdf)
+-Seymour Papert 
+
+[On Hacking](https://stallman.org/articles/on-hacking.html)
+-Richard Stallman
+
+[How to learn programming](https://stallman.org/stallman-computing.html)
+-Richard Stallman 
+
+[How i failed failed and finally succeeded at learning how to Code](https://www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/)
+-James Somers
+
+[What is Programming - noob lessons](https://www.youtube.com/watch?v=N2bXEUSAiTI&pp=ygUaZ2VvaG90IHdoYXQgaXMgcHJvZ3JhbW1pbmc%3D)
+-George Hotz

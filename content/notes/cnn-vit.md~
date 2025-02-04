@@ -1,0 +1,7 @@
+---
+title: "CNNs vs Transformers: An investigation"
+finished: false 
+date: 2024-12-23 
+tags: ["technical", "research", "explanibility"]
+description: "On investigating the claim of transformers as a better choice for detection and classification compared to CNN's."
+---

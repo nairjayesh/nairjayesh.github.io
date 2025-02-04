@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Links on Jayesh Nair</title>
+    <link>http://localhost:1313/tags/links/</link>
+    <description>Recent content in Links on Jayesh Nair</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Hacking: A reading List</title>
+      <link>http://localhost:1313/writings/2024-5-6-hack/</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/2024-5-6-hack/</guid>
+      <description>&lt;p&gt;Reading lists I&amp;rsquo;d like to maintain on the subject of hacking that I&amp;rsquo;ve found to resonate with me!&lt;/p&gt;&#xA;&lt;p&gt;Thankyou to the authors for publishing on the Internet!&lt;/p&gt;&#xA;&lt;p&gt;from ESR&amp;rsquo;s Jargon File:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;hacker: n.&#xA;A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. &lt;br&gt;&#xA;RFC1392, the Internet Users&amp;rsquo; Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What to work on?</title>
+      <link>http://localhost:1313/writings/2023-6-9-decisions-on-work/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/2023-6-9-decisions-on-work/</guid>
+      <description>&lt;p&gt;Update:&lt;/p&gt;&#xA;&lt;p&gt;What to work on? What to learn and how to think about this question of spending majority of your time into something? I have been trying to figure out answers to questions as well, and it&amp;rsquo;s not straight-forward.&lt;/p&gt;&#xA;&lt;p&gt;I feel our culture / written works around these questions, have a lot of different opinions, and mostly leave out the messy part - the empty dread of not knowing what comes next when you decide upon something. Currently, I have found the following couple of ideas that help convey what I have been thinking about:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
