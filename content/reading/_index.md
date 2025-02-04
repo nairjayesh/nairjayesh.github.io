@@ -36,7 +36,7 @@ books:
     url: "https://www.amazon.in/Surely-youre-Joking-Feynman-Adventures/dp/009917331X"
   - author: "Feynman, Richard"
     title: "What is Science?"
-    url: "/static/refs/WHAT_IS_SCIENCE_by_R.Feynman_1966.pdf"
+    url: "/refs/WHAT_IS_SCIENCE_by_R.Feynman_1966.pdf"
   - author: "Isaacson, Walter"
     title: "Leonardo da Vinci"
     url: "https://www.amazon.com/Leonardo-da-Vinci/dp/3549076436" 
