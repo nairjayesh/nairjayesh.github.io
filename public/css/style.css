@@ -96,3 +96,9 @@ article p span {
     font-size: 0.9em;
     color: #333;
 }
+
+/* Main Text */
+p b {
+    color: #000000;
+    font-weight: bold;
+}
