@@ -8,3 +8,34 @@ title = 'Jayesh Nair'
 [markup.goldmark.renderer]
   unsafe = true  # Allows HTML in markdown
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/writings/"
+    weight = 3
+  [[menu.main]]
+    name = "Tech"
+    url = "/notes/"
+    weight = 4
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 5
+  [[menu.main]]
+    name = "Reading"
+    url = "/reading/"
+    weight = 6
+  [[menu.main]]
+    name = "Excerpts"
+    url = "/excerpts/"
+    weight = 7
+  # ... other menu items
+

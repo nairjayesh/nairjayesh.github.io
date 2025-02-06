@@ -13,4 +13,4 @@ I have a deep interest in making computer's "see" things, along with the "tools"
 
 You can contact me via the social's [here](/), or via email: [lastname][firstname]098[at]gmail.
 
----
+
