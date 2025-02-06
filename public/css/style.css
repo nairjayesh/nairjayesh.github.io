@@ -1,4 +1,4 @@
-:root {
+:root { 
     --header-color: #B8401E;
     --bgc: #f9f9f9;
 }
@@ -9,6 +9,15 @@ header h1.site-title {
     color: #B8401E;
     margin-bottom: 1rem;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header h1.site-title a {
+    color: #B8401E;
+    text-decoration: none;
+}
+
+header h1.site-title a:hover {
+    text-decoration: underline;
 }
 
 /* Base */
