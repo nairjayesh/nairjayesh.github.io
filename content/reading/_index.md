@@ -74,7 +74,7 @@ books:
     title: "Edison"
     url: "https://www.amazon.in/Edison-Edmund-Morris/dp/081299311X"
   - author: "Kaufmann, Peter D."
-    title: "https://press.stripe.com/poor-charlies-almanack"
+    title: "Poor Charlie's Almanack"
     url: "https://press.stripe.com/poor-charlies-almanack"
   - author: "Mahron Jr., Charles L." 
     title: "Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity" 
