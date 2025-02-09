@@ -51,10 +51,12 @@ books:
     url: "https://www.amazon.in/Penguin-Classics-Beginning-Infinity-Deutsch/dp/0140278168/"
   - author: "Kaczynski, Theodore" 
     title: "Industrial Society and Its Future" 
-    url: "https://editions-hache.com/essais/pdf/kaczynski2.pdf" 
+    url: "/refs/notation-as-a-tool-of-thought.pdf" 
   - author: "Prieur, Ran"
     title: "How to Dropout"
     url: "https://ranprieur.com/essays/dropout.html"
+  - author: "Iverson, Kenneth E." 
+    url: "/refs/notation-as-a-tool-of-thought.pdf"
 --- 
 
 An on-going list of things I've read, or am currently reading. I may occasionally write a review and expand on them. 
