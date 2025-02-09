@@ -94,6 +94,15 @@ books:
   - author: "Kalanithi, Paul"
     url: "https://www.amazon.de/-/en/When-Breath-Becomes-Paul-Kalanithi/dp/0399590404" 
     title: "When Breath Becomes Air"
+  - author: "Graham, Paul"
+    url: "https://www.amazon.de/-/en/Hackers-Painters-Big-Ideas-Computer/dp/1449389554" 
+    title: "Hackers & Painters" 
+  - author: "Morris, Edmund" 
+    url: "https://www.amazon.de/Theodore-Roosevelt-Modern-Library-Paperback/dp/0375756787" 
+    title: "The Rise of Theodore Roosevelt" 
+  - author: "Waitzkin, Josh"
+    url: "https://www.amazon.de/-/en/Art-Learning-Journey-Optimal-Performance/dp/0743277465"
+    title: "The Art of Learning: An Inner Journey to Optimal Performance"
 --- 
 
 An on-going list of things I've read, or am currently reading. I may occasionally write a review and expand on them. 
