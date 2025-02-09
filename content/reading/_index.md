@@ -51,7 +51,7 @@ books:
     url: "https://www.amazon.in/Penguin-Classics-Beginning-Infinity-Deutsch/dp/0140278168/"
   - author: "Kaczynski, Theodore" 
     title: "Industrial Society and Its Future" 
-    url: "/refs/notation-as-a-tool-of-thought.pdf" 
+    url: "/refs/industrial-society-and-future.pdf" 
   - author: "Prieur, Ran"
     title: "How to Dropout"
     url: "https://ranprieur.com/essays/dropout.html"
