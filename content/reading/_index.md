@@ -56,6 +56,7 @@ books:
     title: "How to Dropout"
     url: "https://ranprieur.com/essays/dropout.html"
   - author: "Iverson, Kenneth E." 
+    title: "Notation as a Tool of Thought" 
     url: "/refs/notation-as-a-tool-of-thought.pdf"
 --- 
 
