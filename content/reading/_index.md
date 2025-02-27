@@ -1,6 +1,12 @@
 ---
 title: "Reading"
 books:
+  - author: "Illich, Ivan"
+    title: "The Right to Useful Unemployment" 
+    url: "https://theanarchistlibrary.org/library/ivan-illich-the-right-to-useful-unemployment-and-its-professional-enemies.pdf"
+  - author: "Illich, Ivan"
+    title: "Tools for Conviviality"
+  - url: "https://www.amazon.de/-/en/Tools-Conviviality-Ivan-Illich/dp/1842300113"
   - author: "Hamming, Richard W."
     title: "The Art of Doing Science and Engineering"
     url: "https://worrydream.com/refs/Hamming_1997_-_The_Art_of_Doing_Science_and_Engineering.pdf"
