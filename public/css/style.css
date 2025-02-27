@@ -1,24 +1,33 @@
+/*
+    Learning CSS: via reading CSS 
+    -----------------------------
+    selector {
+        property: property value;        
+    } <-- This entire block is a declaration 
+
+    Property conflicts: 
+*/ 
 :root { 
     --header-color: #B8401E;
     --bgc: #f9f9f9;
 }
 
 /* Header Title */
-header h1.site-title {
+h1.site-title {
     font-size: 2.5em;
     color: #B8401E;
     margin-bottom: 1rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+ 
+h1 a{ 
+    color: inherit;
 }
 
-header h1.site-title a {
-    color: #B8401E;
-    text-decoration: none;
-}
-
-header h1.site-title a:hover {
+/*Challenge, try to see why the hover component doesn't work*/
+ h1 a:hover { 
     text-decoration: underline;
-}
+} 
 
 /* Base */
 body {
@@ -56,6 +65,7 @@ nav a {
     padding: 0.25rem;
 }
 
+/*Doesn't work beyond the first nested level*/ 
 nav a.active {
     color: #B8401E;
     text-decoration: underline;
@@ -63,6 +73,7 @@ nav a.active {
 
 nav a.active:hover {
     opacity: 0.8;
+    text-decoration: underline;
 }
 
 /* Layout */
