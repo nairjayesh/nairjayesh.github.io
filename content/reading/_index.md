@@ -1,6 +1,9 @@
 ---
 title: "Reading"
 books:
+  - author: "Aaron Swartz"
+    title: "Raw Thought, Raw Nerve, Inside the Mind of Aaron Swartz"
+    url: "/refs/RawThoughtRawNerve-InsideTheMindOfAaronSwartz.pdf" 
   - author: "Anonymous"
     title: "Delusion Damage" 
     url: "/refs/delusion-damage.pdf"
