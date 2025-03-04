@@ -1,6 +1,9 @@
 ---
 title: "Reading"
 books:
+  - author: "Anonymous"
+    title: "Delusion Damage" 
+    url: "/refs/delusion-damage.pdf"
   - author: "Illich, Ivan"
     title: "The Right to Useful Unemployment" 
     url: "https://theanarchistlibrary.org/library/ivan-illich-the-right-to-useful-unemployment-and-its-professional-enemies.pdf"
