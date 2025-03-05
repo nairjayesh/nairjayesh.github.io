@@ -1,7 +1,10 @@
 ---
 title: "Reading"
 books:
-  - author: "Aaron Swartz"
+  - author: "Gallwey, Timothy"
+    title: "The Inner Game of Tennis"
+    url: "https://www.amazon.de/-/en/Inner-Game-Tennis-Classic-Performance/dp/0679778314"
+  - author: "Swartz, Aaron"
     title: "Raw Thought, Raw Nerve, Inside the Mind of Aaron Swartz"
     url: "/refs/RawThoughtRawNerve-InsideTheMindOfAaronSwartz.pdf" 
   - author: "Anonymous"
