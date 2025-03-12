@@ -55,11 +55,6 @@
   Learning to teach machines perception.
 </h2>
 
-<div class="eye-container">
-  <div class = "eye", style="top: 56%; left: 45%;"><div class="pupil"></div></div>
-  <div class = "eye", style="top: 56%; left: 50%;"><div class="pupil"></div></div>
-</div>
-
 <div class="social-container">
   <a href="https://github.com/nairjayesh" target="_blank">GitHub</a> |
 <a href="https://x.com/jnairx" target="_blank">X</a> |
@@ -67,46 +62,6 @@
 <a href="https://www.linkedin.com/in/jayesh-nair-181a89149/">LinkedIN</a>
 </div>
 </div>
-
-<style>
-  .eye {
-      width: 30px;
-      height: 30px;
-      background: #f9f9f9;
-      border-radius: 100%;
-      border-color: black;
-      border: 1px solid black;
-      position: absolute;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-  }
-  .pupil {
-      width: 10px;
-      height: 10px;
-      background: black;
-      border-radius: 50%;
-      position: absolute;
-      transition: 0.05s linear;
-  }
-  .social-container {
-    margin-top: 60px; 
-}
-</style>
-
-<script>
-  document.addEventListener("mousemove", (event) => {
-      document.querySelectorAll(".eye").forEach(eye => {
-          let pupil = eye.querySelector(".pupil");
-          let rect = eye.getBoundingClientRect();
-          let eyeCenterX = rect.left + rect.width / 2 ;
-          let eyeCenterY = rect.top + rect.height / 2 ;
-          let angle = Math.atan2(event.clientY - eyeCenterY, event.clientX - eyeCenterX);
-          let maxDistance = 5; 
-          pupil.style.transform = `translate(${Math.cos(angle) * maxDistance}px, ${Math.sin(angle) * maxDistance}px)`;
-      });
-  });
-</script>
 
 
         </main>
