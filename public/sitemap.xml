@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nairjayesh.githuub.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/</loc>
+    <loc>http://localhost:1313/writings/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/2024-7-10-ideas/</loc>
+    <loc>http://localhost:1313/writings/2024-7-10-ideas/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/hacking/</loc>
+    <loc>http://localhost:1313/tags/hacking/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/links/</loc>
+    <loc>http://localhost:1313/tags/links/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/2024-5-6-hack/</loc>
+    <loc>http://localhost:1313/writings/2024-5-6-hack/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/philosophy/</loc>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/decisions/</loc>
+    <loc>http://localhost:1313/tags/decisions/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/2023-6-9-decisions-on-work/</loc>
+    <loc>http://localhost:1313/writings/2023-6-9-decisions-on-work/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/2022-3-12-sounds-of-silence/</loc>
+    <loc>http://localhost:1313/writings/2022-3-12-sounds-of-silence/</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/thoughts/</loc>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/writings/2022-1-30-the_internet/</loc>
+    <loc>http://localhost:1313/writings/2022-1-30-the_internet/</loc>
     <lastmod>2022-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/notes/cnn-vit/</loc>
+    <loc>http://localhost:1313/notes/cnn-vit/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/excerpts/</loc>
+    <loc>http://localhost:1313/excerpts/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/excerpts/excerpts/</loc>
+    <loc>http://localhost:1313/excerpts/excerpts/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/explanibility/</loc>
+    <loc>http://localhost:1313/tags/explanibility/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/notes/counting-coins/</loc>
+    <loc>http://localhost:1313/notes/counting-coins/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/reading/</loc>
+    <loc>http://localhost:1313/reading/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/projects/sensor-fusion/</loc>
+    <loc>http://localhost:1313/projects/sensor-fusion/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/tags/technical/</loc>
+    <loc>http://localhost:1313/tags/technical/</loc>
   </url><url>
-    <loc>https://nairjayesh.githuub.io/projects/geo-spatial-data-viz/</loc>
+    <loc>http://localhost:1313/projects/geo-spatial-data-viz/</loc>
   </url>
 </urlset>
