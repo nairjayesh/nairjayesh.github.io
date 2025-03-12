@@ -35,3 +35,7 @@ title = 'Jayesh Nair'
     weight = 7
   # ... other menu items
 
+  [module]
+  [[module.imports]]
+    path = "github.com/nairjayesh/find-transcripts"
+
