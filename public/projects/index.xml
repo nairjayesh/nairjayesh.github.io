@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jayesh Nair</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://nairjayesh.githuub.io/projects/</link>
     <description>Recent content in Projects on Jayesh Nair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nairjayesh.githuub.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sensor data fusion: Camera &amp; Radar</title>
-      <link>http://localhost:1313/projects/sensor-fusion/</link>
+      <link>https://nairjayesh.githuub.io/projects/sensor-fusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/sensor-fusion/</guid>
+      <guid>https://nairjayesh.githuub.io/projects/sensor-fusion/</guid>
       <description></description>
     </item>
     <item>
       <title>Visualizing Geo-Location data using Deck.gl</title>
-      <link>http://localhost:1313/projects/geo-spatial-data-viz/</link>
+      <link>https://nairjayesh.githuub.io/projects/geo-spatial-data-viz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/geo-spatial-data-viz/</guid>
+      <guid>https://nairjayesh.githuub.io/projects/geo-spatial-data-viz/</guid>
       <description>&lt;p&gt;As an official submission to VGI-Hackathon 2024, created a tool to visualize spatio-temporal geo-location trip data of VGI-Flexi trips.&lt;/p&gt;</description>
     </item>
   </channel>

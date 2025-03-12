@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical on Jayesh Nair</title>
-    <link>http://localhost:1313/tags/technical/</link>
+    <link>https://nairjayesh.githuub.io/tags/technical/</link>
     <description>Recent content in Technical on Jayesh Nair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nairjayesh.githuub.io/tags/technical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CNNs vs Transformers: An investigation</title>
-      <link>http://localhost:1313/notes/cnn-vit/</link>
+      <link>https://nairjayesh.githuub.io/notes/cnn-vit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/cnn-vit/</guid>
+      <guid>https://nairjayesh.githuub.io/notes/cnn-vit/</guid>
       <description></description>
     </item>
     <item>
       <title>How to count coins</title>
-      <link>http://localhost:1313/notes/counting-coins/</link>
+      <link>https://nairjayesh.githuub.io/notes/counting-coins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/counting-coins/</guid>
+      <guid>https://nairjayesh.githuub.io/notes/counting-coins/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excerpts on Jayesh Nair</title>
-    <link>http://localhost:1313/excerpts/</link>
+    <link>https://nairjayesh.githuub.io/excerpts/</link>
     <description>Recent content in Excerpts on Jayesh Nair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/excerpts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nairjayesh.githuub.io/excerpts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Excerpts</title>
-      <link>http://localhost:1313/excerpts/excerpts/</link>
+      <link>https://nairjayesh.githuub.io/excerpts/excerpts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/excerpts/excerpts/</guid>
+      <guid>https://nairjayesh.githuub.io/excerpts/excerpts/</guid>
       <description>&lt;p&gt;Bookmarks for passages / excerpts I come across that resonate with me, for whatever reason.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;RAD has a small staff of really smart programmers that can code, write documentation, and provide great technical support. Unlike most companies, we want our smart people working on documentation and supporting our customers - that&amp;rsquo;s the way our products get better!&#xA;After all, how would we know if the documentation needed clarification if we didn&amp;rsquo;t talk to the developers? How would we know if some API was too complicated without trying to walk someone through it over the phone?&#xA;It is this circle of development (code-&amp;gt;documentation-&amp;gt;support-&amp;gt;code) that we think makes our products unique. When you use our products, it should feel like an API that you designed yourself.&lt;/p&gt;</description>
     </item>
   </channel>
