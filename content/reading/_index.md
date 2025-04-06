@@ -1,6 +1,12 @@
 ---
 title: "Reading"
 books:
+  - author: "Ramachandran, V. S., Blakeslee, Sandra" 
+    title: "Phantoms in the Brain: Probing the Mysteries of the Human Mind" 
+    ur: "https://www.amazon.de/-/en/V-S-Ramachandran/dp/0688172172" 
+  - author: "Bronowski, Jacob" 
+    title: "The Ascent of Man" 
+    url: "https://www.amazon.de/-/en/Ascent-Man-Jacob-Bronowski/dp/1849901155" 
   - author: "Gallwey, Timothy"
     title: "The Inner Game of Tennis"
     url: "https://www.amazon.de/-/en/Inner-Game-Tennis-Classic-Performance/dp/0679778314"
