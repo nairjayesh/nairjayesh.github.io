@@ -16,6 +16,6 @@ Stack used:
 <div class="map-container">
     <p> here's a quick demo of the platform </p> 
     <div class="video-container"> 
-        <iframe width="100%" height="400" src="https://www.youtube.com/embed/m_lU4CKEvo0" frameborder="0"></iframe> 
+        <iframe width="100%" height="400" src="https://www.youtube.com/embed/m_lU4CKEvo0" frameborder="0" allowfullscreen></iframe> 
     </div> 
 </div>
