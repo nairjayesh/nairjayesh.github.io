@@ -15,9 +15,27 @@ This was really fun to work on - got to learn about nitty-gritties of model trai
 ### Image Augmentation:
 Primary problem when it comes to working on road user data is high levels of data imbalance among different classes, we were working with 6  road user classes with the following distribution.
 
-![](assets/instance_data_analysis.png)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
+  <!-- First image -->
+  <div style="width: 100%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/assets/instance_data_analysis.png" alt="Road user data distribution" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Road user class distribution showing data imbalance
+      </figcaption>
+    </figure>
+  </div>
 
 Tried a bunch of different techniques for image augmentation, one of the most interesting was [Image Inpainting](https://github.com/advimman/lama).
 
-![](assets/augmentation.png)
+  <!-- Second image -->
+  <div style="width: 100%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/assets/augmentation.png" alt="Image Inpainting augmentation technique" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Image Inpainting augmentation technique results
+      </figcaption>
+    </figure>
+  </div>
+</div>
 
