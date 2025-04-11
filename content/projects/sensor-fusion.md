@@ -12,14 +12,11 @@ This was really fun to work on - got to learn about nitty-gritties of model trai
 
 [Github Repo](https://github.com/nairjayesh/Sensor-Data-Fusion)
 
-![alt text](image.png)
-
 ### Image Augmentation:
 Primary problem when it comes to working on road user data is high levels of data imbalance among different classes, we were working with 6  road user classes with the following distribution.
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <!-- First image -->
-  <div style="width: 50%; max-width: 700px;">
+  <div style="width: 70%; max-width: 700px;">
     <figure style="margin: 0;">
       <img src="/projects/assets/instance_data_analysis.png" alt="Road user data distribution" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
@@ -30,12 +27,11 @@ Primary problem when it comes to working on road user data is high levels of dat
 
 Tried a bunch of different techniques for image augmentation, one of the most interesting was [Image Inpainting](https://github.com/advimman/lama).
 
-  <!-- Second image -->
   <div style="width: 100%; max-width: 700px;">
     <figure style="margin: 0;">
       <img src="/projects/assets/augmentation.png" alt="Image Inpainting augmentation technique" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
-        Image Inpainting augmentation technique results
+        Image augmentation results
       </figcaption>
     </figure>
   </div>
@@ -45,4 +41,5 @@ Tried a bunch of different techniques for image augmentation, one of the most in
 Used [Ultralytics](https://www.ultralytics.com/) library along with [YOLOv8-large](https://yolov8.com/) for fine tuning on the [INFRA-3DRC dataset](https://github.com/FraunhoferIVI/INFRA-3DRC-Dataset) 
 
 ### Sensor Fusion: 
-Performed a simple  
+Performed spatial fusion of detection objects from two different sensors: Radar & Camera. As seen below, the box is detection result from the camera (YOLO v8) and the red dot represents the centroid of cluster (detection object from radar). 
+![](image.png)
