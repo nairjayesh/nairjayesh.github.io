@@ -42,4 +42,13 @@ Used [Ultralytics](https://www.ultralytics.com/) library along with [YOLOv8-larg
 
 ### Sensor Fusion: 
 Performed spatial fusion of detection objects from two different sensors: Radar & Camera. As seen below, the box is detection result from the camera (YOLO v8) and the red dot represents the centroid of cluster (detection object from radar). 
-![](image.png)
+
+  <div style="width: 100%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/image.png" alt="Sensor fusion technique" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Sensor fusion results
+      </figcaption>
+    </figure>
+  </div>
+</div>
