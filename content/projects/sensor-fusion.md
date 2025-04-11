@@ -17,7 +17,7 @@ Primary problem when it comes to working on road user data is high levels of dat
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
   <!-- First image -->
-  <div style="width: 100%; max-width: 700px;">
+  <div style="width: 10%; max-width: 400px;">
     <figure style="margin: 0;">
       <img src="/projects/assets/instance_data_analysis.png" alt="Road user data distribution" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
