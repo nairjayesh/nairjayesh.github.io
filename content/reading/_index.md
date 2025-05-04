@@ -1,9 +1,12 @@
 ---
 title: "Reading"
 books:
+  - author: "Bronowski, Jacob"
+    title: "Science and Human Values"
+    url: https://sciencepolicy.colorado.edu/students/envs_5110/bronowski_1956.pdf 
   - author: "Ramachandran, V. S., Blakeslee, Sandra" 
     title: "Phantoms in the Brain: Probing the Mysteries of the Human Mind" 
-    ur: "https://www.amazon.de/-/en/V-S-Ramachandran/dp/0688172172" 
+    url: "https://www.amazon.de/-/en/V-S-Ramachandran/dp/0688172172" 
   - author: "Bronowski, Jacob" 
     title: "The Ascent of Man" 
     url: "https://www.amazon.de/-/en/Ascent-Man-Jacob-Bronowski/dp/1849901155" 
