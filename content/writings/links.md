@@ -4,7 +4,9 @@ date: 2025-06-21
 finished: true 
 tags: ["thoughts", "links", "reading"]
 ---
-Jun 21 '25. In personal news, I'm moving to Munich, to work as a student and write me thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later. As part of moving, I was curious how cycle friendly is the city, the distance from where I live to the office is about 10 kms via cycling. Almost 40 mins of travel time one way. Found some links on Cycling around in Munich city - which is overhauling it's cycling infrastructure! [Munich - touring through the city - 1](https://www.youtube.com/watch?v=F7aA3PvLX6Q) and [Munich - touring through the city - 2](https://www.youtube.com/watch?v=TjP2Lt5OtfI) show a good deal of what is the city currently like for cycling and what are their plans in the future.
+Jun 21 '25. In personal news, I'm moving to Munich, to work as a student and to work on my Master's Thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later. 
+
+As part of moving, I was curious how cycle friendly is the city, the distance from where I live to the office is about 10 kms via cycling. Almost 40 mins of travel time one way. Found some links on Cycling around in Munich city - which is overhauling it's cycling infrastructure! [Munich - touring through the city - 1](https://www.youtube.com/watch?v=F7aA3PvLX6Q) and [Munich - touring through the city - 2](https://www.youtube.com/watch?v=TjP2Lt5OtfI) show a good deal of what is the city currently like for cycling and what are their plans in the future.
 
 
 Re-read the written work on [the value of nothing](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/), observations match with what I'm currently drafting as an essay. A strage excitement in writing the same. 
