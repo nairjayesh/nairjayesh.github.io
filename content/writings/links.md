@@ -1,5 +1,5 @@
 ---
-title: Logs 
+title: Logs '25 
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
