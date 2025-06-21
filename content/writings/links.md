@@ -1,7 +1,6 @@
 ---
 title: Logs 
 date: 2025-06-21  
-finished: true 
 tags: ["thoughts", "links", "reading"]
 ---
 Jun 21 '25. In personal news, I'm moving to Munich, to work as a student and to work on my Master's Thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later. 
