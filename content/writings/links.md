@@ -9,7 +9,7 @@ The next best thing is to roll up your sleeves, and create wealth. This thing is
 
 A knowledge of and ability to control your means of production of food, water, and electricity is wealth. An economy essentially is exchange of goods and services such as above (that go way beyond the basics). It's also, an attempt at improving life by solving problems, winning over nature - that's what market's respected. 
 
-The finance sector was born and it destroyed [the very map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) used to keep track of this exchange. It was a way to keep in check, problems, that would cause ny excessive spending on defence, on waging wars, on jacking up asset prices to sell to the sucker that held it till the end, and it's now paper floating around. 
+The finance sector was born and it destroyed [the very map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) used to keep track of this exchange. It was a way to keep in check, problems, that would cause excessive spending on defence, on waging wars, on jacking up asset prices to sell to the sucker that held it till the end, and it's now paper floating around. 
 
 Well, Wealth,  Urban Mobility design, building inter-generational stability and wealth was on my mind. As an aside theme. Also see - [WTF Happened in 1971](https://wtfhappenedin1971.com/). 
 
