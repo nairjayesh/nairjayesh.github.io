@@ -13,7 +13,7 @@ The finance sector was born and it destroyed [the very map](https://geohot.githu
 
 Well, Wealth,  Urban Mobility design, building inter-generational stability and wealth was on my mind. As an aside theme. Also see - [WTF Happened in 1971](https://wtfhappenedin1971.com/). 
 
-Also found another short story by the Ted Kaczynski to be quite interesting - [Ship of Fools](https://theanarchistlibrary.org/library/ted-kaczynski-ship-of-fools).  
+Also found another short story by the Ted Kaczynski to be quite interesting - [Ship of Fools](https://theanarchistlibrary.org/library/ted-kaczynski-ship-of-fools).
 
 Ultimately, grateful for the opportunities so far and cautious of the opportunities to win over nature. And get insanely good at things. 
 
