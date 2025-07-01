@@ -1,6 +1,12 @@
 ---
 title: "Reading"
 books:
+  - author: "Griffin, Edward G."
+    title: "The Creature from Jekyll Island" 
+    url: "https://dn790003.ca.archive.org/0/items/pdfy--Pori1NL6fKm2SnY/The%20Creature%20From%20Jekyll%20Island.pdf"
+  - author: "DiBernardo, Michael (Editor)"
+    title: "500 Lines or Less"
+    url: "https://aosabook.org/en/buy.html#500L"
   - author: "Bronowski, Jacob"
     title: "Science and Human Values"
     url: https://sciencepolicy.colorado.edu/students/envs_5110/bronowski_1956.pdf 
