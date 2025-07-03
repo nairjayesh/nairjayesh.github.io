@@ -4,6 +4,7 @@ finished: false
 tags: ["technical", "TTS", "deep-learning", "audio"]
 description: "An exploration into different models available in Text to Speech (and perhaps writing some frontend for it)"
 draft: false
+date: 2025-07-03
 ---
 
 With the shut-down of services like Pocket and Google Assistant's "Read-it-to-me" feature, I feel that there is no longer an easy way to store / read webpages on android, with similar quality.[^1]
