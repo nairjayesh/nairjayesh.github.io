@@ -3,6 +3,8 @@ title: Logs '25
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
+**Jul 7 '25.** Some links on ML and CS concepts, well illustrated. Amit's writeup on [REGEX](https://amitness.com/posts/visual-regex) and [Self-supervised learning](https://amitness.com/posts/self-supervised-learning). Kudos on the blog design, really feels like a good technical blog. Aman.ai's primers on [KNN's](https://aman.ai/primers/ai/k-nearest-neighbors/), [Clustering](https://aman.ai/primers/ai/clustering/#gaussian-mixture-models-gmm-with-model-selection), and [Speech Processing](https://aman.ai/primers/ai/speech-processing/) and Shuzhan Fan's post on [ResNet's](https://shuzhanfan.github.io/2018/11/ResNet/) and [SVM's](https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/). 
+
 **Jul 5 '25.** Some links to follow and some mistakes that made me dive deep into what are iterators. [Link1 - Biyani](https://arpitbhayani.me/blogs/python-iterable-integers), [Link2 - PG's tour of Python Internals](https://www.youtube.com/watch?v=8-KfIsDbxVY), [Link3 - Iterators in C++](https://www.podoliaka.org/2013/01/20/iterators-en/), [Link4 - Py Iterators in C](https://folkertdev.nl/blog/python-iterators-in-c/), [Link5 Iterators in C++](https://average-coder.blogspot.com/2012/07) and [Link6 - History of Iterators](https://www.jmeiners.com/efficient-programming-with-components/09_iterators.html). To be continued. 
 
 There are two things I realized today - when learning, you need to follow your intuitions to the end, to figure out if they led you down the right path or not AND - you need to learn how to get your intuitions / ideas into the real world. Figure a way to express them, and test them, that is part of getting good at your craft. 
@@ -34,7 +36,6 @@ Also found another short story by the Ted Kaczynski to be quite interesting - [S
 Ultimately, grateful for the opportunities so far and cautious of the opportunities to win over nature. And get insanely good at things. 
 
 **Jun 22 '25.** Should be studying for an upcoming exam, but went into a rabbit hole on how Fragile money really is. Some interesting links, like this cartoon on [How Money Works](https://www.youtube.com/watch?v=H4XL8s1BEdk) was the first trigger. If you are looking for serious adult explanations look at the series [Hidden Secrets of Money](https://www.youtube.com/watch?v=DyV0OfU3-FU&t=746s). 
-
 
 **Jun 21 '25.** In personal news, I'm moving to Munich, to work as a student and to work on my Master's Thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later. 
 
