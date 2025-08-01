@@ -6,6 +6,13 @@ description: "Interesting excerpts I've come across."
 
 Bookmarks for passages / excerpts I come across that resonate with me, for whatever reason. 
 
+> I go where they never can 
+> I float, I don't ever land
+> When it's dark, you don't know 
+> where you goin' 
+> Need a light-bearer to lead you home. 
+- [Preacher Man](https://music.youtube.com/watch?v=dEljaQeUxvI&si=uD051wrwBBtsYCNz) 
+
 > RAD has a small staff of really smart programmers that can code, write documentation, and provide great technical support. Unlike most companies, we want our smart people working on documentation and supporting our customers - that's the way our products get better!
 > After all, how would we know if the documentation needed clarification if we didn't talk to the developers? How would we know if some API was too complicated without trying to walk someone through it over the phone?
 > It is this circle of development (code->documentation->support->code) that we think makes our products unique. When you use our products, it should feel like an API that you designed yourself.
