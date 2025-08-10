@@ -1,6 +1,6 @@
 ---
-title: "Exploring Reinforcement Learning in different environments" 
-finished: false 
+title: "Exploring Reinforcement Learning" 
+finished: true 
 date: 2024-06-01
 last-modified: 2025-08-01
 tags: ["reinforcement-learning", "deep learning"]
