@@ -24,6 +24,7 @@ Primary problem when it comes to working on road user data is high levels of dat
       </figcaption>
     </figure>
   </div>
+</div>
 
 Tried a bunch of different techniques for image augmentation, one of the most interesting was [Image Inpainting](https://github.com/advimman/lama).
 
