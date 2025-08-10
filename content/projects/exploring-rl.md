@@ -15,6 +15,7 @@ This most interesting sections were observing how Q-Learning would perform in co
 ## 1/ Q-Learning and Deep Q-Learning on a simple custom environment.
 
 ### 1.1/ The Environment: 
+
 The custom environment was built on top of frameworks such as Gymnasium and PyGames. It essentially, involved an agent (Pikachu) who had to navigate it's way through a maze toward's the goal state (Ash) while collecting reward's (badges) and avoiding terminal state's (Meowth).
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
@@ -26,9 +27,10 @@ The custom environment was built on top of frameworks such as Gymnasium and PyGa
       </figcaption>
     </figure>
   </div>
-
+</div>
 
 The following were few of the properties of the environment: 
+
 ```
 grid_size: 10x10 
 discrete_action_space: Up (0), Down(1), Left(3), Right(3) (Discrete(4)) 
@@ -48,7 +50,8 @@ Episode end:
     * Agent reaches the goal at (10x10)
 ```
 
-#### 1.2/ Q-Learning:
+### 1.2/ Q-Learning:
+
 We train a simple Q-Learning table of size N x M x C where, 
 N: No. of rows in environment 
 M: No. of columns in environment 
@@ -61,17 +64,19 @@ The hyperparameters for the policy chose are detailed below, the following pictu
     <figure style="margin: 0;">
       <img src="/projects/assets/Policy_Actions_visual.png" alt="Learned Policy" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
-        Visualizing the policy learned by the agent. 
+        Visualizing the policy learned by the agent. Arrow show's the state-action pair with highest value.  
       </figcaption>
     </figure>
   </div>
+</div>
 
 Hyperparmeters used to train the agent on the environment: 
+
 ```
 Episodes: 100_000 
 ```
 
 
-#### 1.3/ Deep Q-Learning: 
+### 1.3/ Deep Q-Learning: 
 
 
