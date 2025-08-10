@@ -20,7 +20,7 @@ The custom environment was built on top of frameworks such as Gymnasium and PyGa
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
   <div style="width: 70%; max-width: 700px;">
     <figure style="margin: 0;">
-      <img src="/projects/assets/RL_custom_ev.png" alt="Environment Setup" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="/projects/assets/RL_custom_env.png" alt="Environment Setup" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
         Custom environment setup built using Gymnasium and PyGame 
       </figcaption>
