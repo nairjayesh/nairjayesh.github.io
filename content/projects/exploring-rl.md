@@ -29,7 +29,7 @@ The custom environment was built on top of frameworks such as Gymnasium and PyGa
 
 The following were few of the properties of the environment: 
 
-```yml
+```
 grid_size: 10x10 
 discrete_action_space: Up (0), Down(1), Left(3), Right(3) (Discrete(4)) 
 hell_states: list of row, col position of terminal state's to avoid 
@@ -52,7 +52,7 @@ Episode end:
 
 We train a simple Q-Learning table of size N x M x C where, 
 
-```yml
+```
 N: No. of rows in environment 
 M: No. of columns in environment 
 C: Action Space within the envirionment 
@@ -99,7 +99,7 @@ nn.Linear(16, no_actions)
 
 Hyperparameters for the same: 
 
-```yml
+```
 learning_rate    = 0.001  
 gamma            = 0.9    
 buffer_limit     = 50_000 
