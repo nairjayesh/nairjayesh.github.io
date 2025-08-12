@@ -1,16 +1,14 @@
 ---
 title: "Exploring Reinforcement Learning" 
 finished: true 
-date: 2024-06-01
 last-modified: 2025-08-01
+date: 2024-06-01
 tags: ["reinforcement-learning", "deep learning"]
 ---
 
-This was a initially a project done as part of Principles of Autonomy and Decision Making at [Technische Hochschule University, Ingolstadt](https://www.thi.de/). The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.
+This was initially a project done as part of Principles of Autonomy and Decision Making at [Technische Hochschule Ingolstadt](https://www.thi.de/). The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.
 
-Currently, this page serves as a gateway to exploring different 
-
-This most interesting sections were observing how Q-Learning would perform in comparision to Deep Q-Learning Network, as well as challenges of training even a simple Deep Q-Learning network from scratch. 
+Currently, this page serves as a gateway to exploring different RL algorithms on various environments, starting with Value function based methods.
 
 ## 1/ Q-Learning and Deep Q-Learning
 
