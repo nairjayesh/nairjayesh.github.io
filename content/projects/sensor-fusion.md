@@ -6,7 +6,7 @@ last-modified: 2025-04-11
 tags: ["computer vision", "sensor fusion", "deep learning"]
 ---
 
-This was a team project done under supervision of [Technische Hochschule University, Ingolstadt](https://www.thi.de/). The goal was to perform late-fusion on radar & camerea detections.
+This was a team project done under supervision of [Technische Hochschule Ingolstadt](https://www.thi.de/). The goal was to perform late-fusion on radar & camerea detections.
 
 This was really fun to work on - got to learn about nitty-gritties of model training, evaluation and spatial fusion of detections. I would like to highlight a few sections here from the project. 
 
