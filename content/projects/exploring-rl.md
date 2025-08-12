@@ -29,6 +29,7 @@ The custom environment was built on top of frameworks such as Gymnasium and PyGa
 
 The following were few of the properties of the environment: 
 
+````
 ```
 grid_size: 10x10 
 discrete_action_space: Up (0), Down(1), Left(3), Right(3) (Discrete(4)) 
@@ -47,6 +48,7 @@ Episode end:
     * Agent moves to the hell_state 
     * Agent reaches the goal at (10x10)
 ```
+````
 
 ### 1.2/ Q-Learning:
 
@@ -98,6 +100,8 @@ nn.Linear(16, no_actions)
 ```
 
 Hyperparameters for the same: 
+
+````
 ```
 learning_rate    = 0.001  
 gamma            = 0.9    
@@ -109,6 +113,7 @@ MIN_EPSILON      = 0.01
 DECAY_RATE       = 0.9999 
 MAX_EPSILON      = 1.0 
 ```
+````
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
   <div style="width: 70%; max-width: 700px;">
