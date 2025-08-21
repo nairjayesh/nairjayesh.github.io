@@ -31,7 +31,7 @@ I was really impressed by how sam2 kept track of three different object id's wit
   <div style="width: 80%; max-width: 800px;">
     <figure style="margin: 0;">
       <video controls style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <source src="/projects/assets/output_video_21.mp4" type="video/mp4">
+        <source src="/projects/assets/output_video_21.webm" type="video/webm">
         Your browser does not support the video tag.
       </video>
       <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
