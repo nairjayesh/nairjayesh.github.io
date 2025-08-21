@@ -2,7 +2,7 @@
 title: "Exploring SAM2 and Scene Graphs" 
 finished: true 
 last-modified: 2025-08-21
-date: 2024-06-01
+date: 2025-08-21
 tags: ["object tracking", "deep learning", "scene graphs"]
 ---
 
