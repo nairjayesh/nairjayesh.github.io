@@ -6,7 +6,7 @@ date: 2024-06-01
 tags: ["object tracking", "deep learning", "scene graphs"]
 ---
 
-I recently came upon the idea for a scene-graphs, below is a very short demonstration along with a link to colab notebook where I explore using Meta's Segment Anything 2 (SAM2) model to create scene graphs. 
+I recently came across an idea, in which scene-graphs are used to describe what is happening in a given video frame, below is a very short demonstration along with a link to colab notebook where I explore using Meta's Segment Anything 2 (SAM2) model to create scene graphs. 
 
 The video we are going to be using is as follows, we want SAM2 to track the cup that contains the ball and in the end tell us the corrent position. 
 
