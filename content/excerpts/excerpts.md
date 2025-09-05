@@ -6,11 +6,11 @@ description: "Interesting excerpts I've come across."
 
 Bookmarks for passages / excerpts I come across that resonate with me, for whatever reason. 
 
-> I go where they never can 
-> I float, I don't ever land
-> When it's dark, you don't know 
-> where you goin' 
-> Need a light-bearer to lead you home. 
+> I go where they never can   
+> I float, I don't ever land  
+> When it's dark, you don't know   
+> where you goin'   
+> Need a light-bearer to lead you home.   
 - [Preacher Man](https://music.youtube.com/watch?v=dEljaQeUxvI&si=uD051wrwBBtsYCNz) 
 
 > RAD has a small staff of really smart programmers that can code, write documentation, and provide great technical support. Unlike most companies, we want our smart people working on documentation and supporting our customers - that's the way our products get better!
