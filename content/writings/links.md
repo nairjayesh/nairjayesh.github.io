@@ -3,6 +3,24 @@ title: Logs '25
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
+**Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. [Ran Prieur's](https://ranprieur.com/) experience (Sept. 30 '25) on generating AI art is exactly how it feels.   
+
+In toda's #links: 
+- [Money is the Map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) 
+- [Manna – Two Views of Humanity’s Future – Chapter 1](https://marshallbrain.com/manna1) 
+
+**Oct 5 '25.** I've been on the move these days, crashing on a friend's couch. It's been revelatory as to how less I need, and how much I own. Packing things up for a long move always involves pruning the excess that accumulates as a result of staying at a place for too long. In a related note, I found [shipping luggage through Hermes](https://www.myhermes.de/preise/gepaeck-und-koffer/?wt_ga=52641879826_257246086518&wt_kw=e_52641879826_hermes%20kofferversand) in case of a long distance move within Germany to be quite useful. It's relatively cheap, compared to hauling it across state in a train or hiring a moving van if it's confined to two suitcases. 
+
+I read [an article](https://archive.is/lfjbl) in NY Times, covering comedian Kunal Kamra's current situation. It reveals just how far the current govt. has gone to curb dissent. They take out your knee caps (means of making a living) one by one, from the article, “They shut the bigger venues, I went to the smaller venues. They shut the smaller venues, I’m working on YouTube,” he said. “If they shut YouTube, I’ll figure something out."  
+
+Few other interesting #links to check out: 
+- [Deep dive into video token compression for autonomous vehicles](https://c5huracan.github.io/2025/03/02/Deep-dive-into-video-token-compression-for-autonomous-vehicles.html)
+- [Social Cooling](https://www.socialcooling.com/) 
+- [PyTorch internals - ezyang's blog](https://blog.ezyang.com/2019/05/pytorch-internals/) 
+- [‘Winning’ AI Arms Races Then What](https://gwern.net/blog/2024/winning-arms-races) 
+- [Letter from Shanghai Reflections on China](https://www.manifold1.com/episodes/letter-from-shanghai-reflections-on-china-in-2024-73/transcript) 
+- [Wav2Vec2-BERT - Kavya Manohar](https://kavyamanohar.com/post/evaluating-wav2vec2-bert-asr/) 
+
 **Sep 5 '25.** It's been too long since I've been cooped up, to read or think about something interesting. But I had to share [this Ran Prieur take](https://ranprieur.com/archives/092.html) on "motivation" and recognizing when to do and when to let go. I was also following a lot of exurb1a content - his story, narration and editing skills are amazing! My favorites are: [and then we'll be okay](https://www.youtube.com/watch?v=7g1pmHSWHe0) and recently the now deleted [Losing You](https://www.youtube.com/watch?v=UTfECUjry3w).  
   
 I have been recently thinking about how politically unaware I am, and I don't mean politics as we see it. I meant, being aware of the Constitution of The Republic of India. All new laws passed, all moves to ammend the constitution, all the news, there's no framework to think about them - how do we know they are unjust, how do we know what's the value of a vote. Once you read through, and perhaps accept the constitution, then this framework provides a way to think about the country as a whole, no longer to think in terms of cultutral, linguistics, religious or caste based lenses. The remanants of the old world.   
