@@ -3,8 +3,7 @@ title: Logs '25
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
-**Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. [Ran Prieur's](https://ranprieur.com/) experience (Sept. 30 '25) on generating AI art is exactly how it feels.   
-
+**Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. 
 A few links: 
 - [Money is the Map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) 
 - [Manna – Two Views of Humanity’s Future – Chapter 1](https://marshallbrain.com/manna1) 
