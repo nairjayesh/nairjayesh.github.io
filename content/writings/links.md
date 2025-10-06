@@ -5,7 +5,7 @@ tags: ["thoughts", "links", "reading"]
 ---
 **Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. [Ran Prieur's](https://ranprieur.com/) experience (Sept. 30 '25) on generating AI art is exactly how it feels.   
 
-In toda's #links: 
+A few links: 
 - [Money is the Map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) 
 - [Manna – Two Views of Humanity’s Future – Chapter 1](https://marshallbrain.com/manna1) 
 
@@ -13,7 +13,7 @@ In toda's #links:
 
 I read [an article](https://archive.is/lfjbl) in NY Times, covering comedian Kunal Kamra's current situation. It reveals just how far the current govt. has gone to curb dissent. They take out your knee caps (means of making a living) one by one, from the article, “They shut the bigger venues, I went to the smaller venues. They shut the smaller venues, I’m working on YouTube,” he said. “If they shut YouTube, I’ll figure something out."  
 
-Few other interesting #links to check out: 
+Few other interesting links to check out: 
 - [Deep dive into video token compression for autonomous vehicles](https://c5huracan.github.io/2025/03/02/Deep-dive-into-video-token-compression-for-autonomous-vehicles.html)
 - [Social Cooling](https://www.socialcooling.com/) 
 - [PyTorch internals - ezyang's blog](https://blog.ezyang.com/2019/05/pytorch-internals/) 
