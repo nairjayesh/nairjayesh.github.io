@@ -3,6 +3,8 @@ title: Logs '25
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
+**Oct 7 '25.**  Rereading [Challenging the Difficult](https://www.lesswrong.com/w/challenging-the-difficult) LessWrong series by Eliezer Yudkowsky. Pieces that I especially like are, ["Trying to Try"](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try), ["On Doing the Impossible"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/fpecAJLG9czABgCe9), ["Shut up and do the impossible"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/nCvvhFBaayaXyuBiD) and ["Final Words"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/yffPyiu7hRLyc7r23).  
+
 **Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. 
 A few links: 
 - [Money is the Map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) 
