@@ -3,6 +3,9 @@ title: Logs '25
 date: 2025-06-21  
 tags: ["thoughts", "links", "reading"]
 ---
+**Oct 9 '25.** Simon Sarris' essay [Breadcrumbs](https://map.simonsarris.com/p/breadcrumbs) is quite interesting. An excerpt:  
+> "One aspect of life, somewhat neglected in the digital age, is the desire to see and be seen. We should not only desire that others find us, we _need_ them to. We need jobs, relationships, friends, and all other kinds of connections. Though it sometimes feels that these connections are assigned at random, it is never true, they are always the product of someone’s efforts. Trivially, hiding in a basement yields zero connections."   
+
 **Oct 7 '25.**  Rereading [Challenging the Difficult](https://www.lesswrong.com/w/challenging-the-difficult) LessWrong series by Eliezer Yudkowsky. Pieces that I especially like are, ["Trying to Try"](https://www.lesswrong.com/posts/WLJwTJ7uGPA5Qphbp/trying-to-try), ["On Doing the Impossible"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/fpecAJLG9czABgCe9), ["Shut up and do the impossible"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/nCvvhFBaayaXyuBiD) and ["Final Words"](https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/yffPyiu7hRLyc7r23).  
 
 **Oct 6 '25.**  I've been watching the ongoing [video book series - Manushyarariyan 2](https://youtu.be/ZtwypKObHAc?si=YKXHbj5LW-Z_HIY9) by Maitreyan, while I have more to say about the content and production, I'm really enjoying it! If  you speak Malayalam (or don't mind the English auto-tune) check it out! After a long time, I feel like I'm listening to someone who thinks freely, that's getting rare. 
@@ -10,7 +13,7 @@ A few links:
 - [Money is the Map](https://geohot.github.io/blog/jekyll/update/2025/02/24/money-is-the-map.html) 
 - [Manna – Two Views of Humanity’s Future – Chapter 1](https://marshallbrain.com/manna1) 
 
-**Oct 5 '25.** I've been on the move these days, crashing on a friend's couch. It's been revelatory as to how less I need, and how much I own. Packing things up for a long move always involves pruning the excess that accumulates as a result of staying at a place for too long. In a related note, I found [shipping luggage through Hermes](https://www.myhermes.de/preise/gepaeck-und-koffer/?wt_ga=52641879826_257246086518&wt_kw=e_52641879826_hermes%20kofferversand) in case of a long distance move within Germany to be quite useful. It's relatively cheap, compared to hauling it across state in a train or hiring a moving van if it's confined to two suitcases. 
+**Oct 5 '25.** I've been on the move these days, crashing on a friend's couch. It's been revelatory to realize how little I need compared to how much I own. Packing things up for a long move always involves pruning the excess that accumulates as a result of staying at a place for too long. In a related note, I found [shipping luggage through Hermes](https://www.myhermes.de/preise/gepaeck-und-koffer/?wt_ga=52641879826_257246086518&wt_kw=e_52641879826_hermes%20kofferversand) in case of a long distance move within Germany to be quite useful. It's relatively cheap, compared to hauling it across state in a train or hiring a moving van if it's confined to two suitcases. 
 
 I read [an article](https://archive.is/lfjbl) in NY Times, covering comedian Kunal Kamra's current situation. It reveals just how far the current govt. has gone to curb dissent. They take out your knee caps (means of making a living) one by one. From the article, “They shut the bigger venues, I went to the smaller venues. They shut the smaller venues, I’m working on YouTube,” he said. “If they shut YouTube, I’ll figure something out."  
 
