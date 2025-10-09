@@ -39,3 +39,4 @@ tags:
 - [Unenumerated - Nick Szabo](https://unenumerated.blogspot.com/) 
 - [Aaron Swartz](http://www.aaronsw.com/weblog/archive) (*esp.* [Raw Nerve](http://www.aaronsw.com/weblog/rawnerve) , [HOWTO Be More Productive](http://www.aaronsw.com/weblog/productivity)) 
 - [thesephist.com](https://thesephist.com/) (*esp.* [Honesty in Craft](https://thesephist.com/posts/honesty/)) 
+- [Pluralistic - Cory Doctorow](https://pluralistic.net/)
