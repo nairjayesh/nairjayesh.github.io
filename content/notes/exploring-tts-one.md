@@ -1,9 +1,13 @@
 ---
-title: "Exloring Text To Speech Models (1)"
-finished: false 
-tags: ["technical", "TTS", "deep-learning", "audio"]
-description: "An exploration into different models available in Text to Speech (and perhaps writing some frontend for it)"
-draft: false
+title: Exloring Text To Speech Models (1)
+finished: false
+tags:
+  - technical
+  - TTS
+  - deep-learning
+  - audio
+description: An exploration into different models available in Text to Speech (and perhaps writing some frontend for it)
+draft: true
 date: 2025-07-03
 ---
 
