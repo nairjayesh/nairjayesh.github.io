@@ -62,6 +62,7 @@ Well, Wealth,  Urban Mobility design, building inter-generational stability and 
       </figcaption>
     </figure>
   </div>
+  </div>
 
 Also found another short story by the Ted Kaczynski to be quite interesting - [Ship of Fools](https://theanarchistlibrary.org/library/ted-kaczynski-ship-of-fools).
 
@@ -69,13 +70,11 @@ Ultimately, grateful for the opportunities so far and cautious of the opportunit
 
 **Jun 22 '25.** Should be studying for an upcoming exam, but went into a rabbit hole on how Fragile money really is. Some interesting links, like this cartoon on [How Money Works](https://www.youtube.com/watch?v=H4XL8s1BEdk) was the first trigger. If you are looking for serious adult explanations look at the series [Hidden Secrets of Money](https://www.youtube.com/watch?v=DyV0OfU3-FU&t=746s). 
 
-**Jun 21 '25.** In personal news, I'm moving to Munich, to work as a student and to work on my Master's Thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later. 
+**Jun 21 '25.** In personal news, I'm moving to Munich, to work as a student and to work on my Master's Thesis with [Nexustec.eu](https://www.nexustec.de/), more on that later.
 
 As part of moving, I was curious how cycle friendly is the city, the distance from where I live to the office is about 10 kms via cycling. Almost 40 mins of travel time one way. Found some links on Cycling around in Munich city - which is overhauling it's cycling infrastructure! [Munich - touring through the city - 1](https://www.youtube.com/watch?v=F7aA3PvLX6Q) and [Munich - touring through the city - 2](https://www.youtube.com/watch?v=TjP2Lt5OtfI) show a good deal of what is the city currently like for cycling and what are their plans in the future.
 
-Re-read the written work on [the value of nothing](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/), observations match with what I'm currently drafting as an essay. A strage excitement in writing the same. 
-
-The source was from one of [George Hotz's video](https://youtu.be/upZf-BWF1i0?t=2047), the longer rant on economics, american empire, china, bitcoin etc. is quite good. 
+Re-read, [the value of nothing](https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/). The source was from one of [George Hotz's video](https://youtu.be/upZf-BWF1i0?t=2047), the longer rant on economics, american empire, china, bitcoin etc. is quite good. 
 
 **Jun 20 '25.** Started reading [Maitreyan's](https://www.youtube.com/watch?v=PIyUADTDy1M) book Manushyarariyan - മനുഷ്യരറിയാൻ. Quite a few interesting ideas and avenues to explore. 
 
