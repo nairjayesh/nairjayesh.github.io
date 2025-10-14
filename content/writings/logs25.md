@@ -1,8 +1,19 @@
 ---
-title: Logs '25 
-date: 2025-06-21  
-tags: ["thoughts", "links", "reading"]
+title: Logs '25
+date: 2025-06-21
+tags:
+  - thoughts
+  - links
+  - reading
+last-modified: 2025-10-13
 ---
+**Oct 14 '25.**  Read a decent [write up](https://archive.is/o2BFF) on Alec Radford. For anyone who know's the field, the man is a prolific researcher. His work spans Audio (Generative Audio), Speech (Whisper) , Text (GPT1, GPT2) to Vision (CLIP).   
+
+I'm still not up to any amount of  satisfactory productivity. So, I have instead been watching a series of videos on the [Secret History](https://www.youtube.com/watch?v=ajFXykT9Joo) video series by Predictive History channel. I especially liked the [death by bureaucracy](https://www.youtube.com/watch?v=hk_yhi3-prw) which ties in to a series of things I sources I have been reading from (longer rant incoming soon). To start off, watch [Poverty Inc.](https://www.youtube.com/watch?v=oimFqwQgR3g); you will see how majority of the aid actually goes towards servicing the bureaucracy that exists to get the aid. Although quite informal, read to get a gist of unproductive people [here](https://geohot.github.io/blog/jekyll/update/2025/09/01/you-will-blame-the-wrong-people.html).  
+
+**Oct 13 '25.** Travelling without a destination to get back to has a strange effect, you don't feel entirely stable to think of things required beyond a couple of weeks of survival. I'm reminded of something that [J. Bronowski](https://en.wikipedia.org/wiki/Jacob_Bronowski) mentioned in his magnificent book, The Ascent of Man, "Civilization can never grow up on the move." The write up [here](https://blog.rootsofprogress.org/nomad-life) captures it pretty well.  An excerpt below: 
+> It is not possible in the nomad life to make things that will not be needed for several weeks. They could not be carried. And in fact the Bakhtiari do not know how to make them. If they need metal pots, they barter them from settled peoples or from a caste of gipsy workers who specialise in metals. A nail, a stirrup, a toy, or a child’s bell is something that is traded from outside the tribe. The Bakhtiari life is too narrow to have time or skill for specialisation. There is no room for innovation, because there is not time, on the move, between evening and morning, coming and going all their lives, to develop a new device or a new thought – not even a new tune. The only habits that survive are the old habits. The only ambition of the son is to be like the father.
+
 **Oct 9 '25.** Simon Sarris' essay [Breadcrumbs](https://map.simonsarris.com/p/breadcrumbs) is quite interesting. An excerpt:  
 > "One aspect of life, somewhat neglected in the digital age, is the desire to see and be seen. We should not only desire that others find us, we _need_ them to. We need jobs, relationships, friends, and all other kinds of connections. Though it sometimes feels that these connections are assigned at random, it is never true, they are always the product of someone’s efforts. Trivially, hiding in a basement yields zero connections."   
 
