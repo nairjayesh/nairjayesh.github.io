@@ -7,6 +7,8 @@ tags:
   - reading
 last-modified: 2025-10-13
 ---
+**Oct 25 '25.** Been reading the series [Exiting Modernity](/refs/exiting-modernity.pdf) by Meta-Nomad.  
+
 **Oct 14 '25.**  Read a decent [write up](https://archive.is/o2BFF) on Alec Radford. For anyone who know's the field, the man is a prolific researcher. His work spans Audio (Generative Audio), Speech (Whisper) , Text (GPT1, GPT2) to Vision (CLIP).   
 
 I'm still not up to do much work today. So, I have instead been watching a series of videos on the [Secret History](https://www.youtube.com/watch?v=ajFXykT9Joo) by the Predictive History YouTube channel. I especially liked the [death by bureaucracy](https://www.youtube.com/watch?v=hk_yhi3-prw) which ties in to the theme of various sources I have been reading from (longer rant incoming soon). To start off, watch [Poverty Inc.](https://www.youtube.com/watch?v=oimFqwQgR3g); you will see how majority of the aid actually goes towards servicing the bureaucracy that exists to get the aid. Although quite informal, read to get a gist of unproductive people read Geohot's post [here](https://geohot.github.io/blog/jekyll/update/2025/09/01/you-will-blame-the-wrong-people.html).  
