@@ -6,6 +6,7 @@ tags:
   - links
   - reading
 last-modified: 2025-10-13
+finished: true
 ---
 **Oct 25 '25.** Been reading the series [Exiting Modernity](/refs/exiting-modernity.pdf) by Meta-Nomad.  
 
