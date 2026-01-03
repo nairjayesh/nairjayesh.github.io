@@ -4,6 +4,7 @@ tags:
   - thoughts
   - links
   - reading
+date: 2026-01-01
 ---
 **Jan 1 '26.** Happy New Year!  My last log was posted in October.  I didn't feel the intellectual growth compared to the year 2024.  That being said, there are a few things that I was happy about.  
 
