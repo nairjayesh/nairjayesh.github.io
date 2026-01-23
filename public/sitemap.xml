@@ -3,27 +3,93 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/links/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/logs26/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reading/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/websites/</loc>
+    <lastmod>2025-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/exploring-scene-graphs/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/object-tracking/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scene-graphs/</loc>
+    <lastmod>2025-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/logs25/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/asr/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/audio/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/yatt/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/read-aloud/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tts/</loc>
+    <lastmod>2025-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/geo-spatial-data-viz/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/2024-7-10-ideas/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hacking/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/computer-vision/</loc>
+    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/links/</loc>
+    <loc>http://localhost:1313/projects/sensor-fusion/</loc>
+    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sensor-fusion/</loc>
+    <lastmod>2024-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/exploring-rl/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hacking/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/writings/2024-5-6-hack/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/philosophy/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/decisions/</loc>
@@ -35,9 +101,6 @@
     <loc>http://localhost:1313/writings/2022-3-12-sounds-of-silence/</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thoughts/</loc>
-    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/writings/2022-1-30-the_internet/</loc>
     <lastmod>2022-01-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,28 +110,10 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/notes/cnn-vit/</loc>
-  </url><url>
     <loc>http://localhost:1313/excerpts/</loc>
   </url><url>
     <loc>http://localhost:1313/excerpts/excerpts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/explanibility/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/counting-coins/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
     <loc>http://localhost:1313/reading/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/research/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/sensor-fusion/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/technical/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/geo-spatial-data-viz/</loc>
   </url>
 </urlset>

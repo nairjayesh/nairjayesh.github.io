@@ -4,22 +4,99 @@
     <title>Tags on Jayesh Nair</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jayesh Nair</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/tags/links/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/links/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/tags/reading/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Object Tracking</title>
+      <link>http://localhost:1313/tags/object-tracking/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/object-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scene Graphs</title>
+      <link>http://localhost:1313/tags/scene-graphs/</link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scene-graphs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ASR</title>
+      <link>http://localhost:1313/tags/asr/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/asr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Audio</title>
+      <link>http://localhost:1313/tags/audio/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/audio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TTS</title>
+      <link>http://localhost:1313/tags/tts/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensor Fusion</title>
+      <link>http://localhost:1313/tags/sensor-fusion/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinforcement-Learning</title>
+      <link>http://localhost:1313/tags/reinforcement-learning/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Hacking</title>
       <link>http://localhost:1313/tags/hacking/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hacking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Links</title>
-      <link>http://localhost:1313/tags/links/</link>
-      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/links/</guid>
       <description></description>
     </item>
     <item>
@@ -34,34 +111,6 @@
       <link>http://localhost:1313/tags/decisions/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/decisions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Thoughts</title>
-      <link>http://localhost:1313/tags/thoughts/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thoughts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Explanibility</title>
-      <link>http://localhost:1313/tags/explanibility/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/explanibility/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technical</title>
-      <link>http://localhost:1313/tags/technical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technical/</guid>
       <description></description>
     </item>
   </channel>

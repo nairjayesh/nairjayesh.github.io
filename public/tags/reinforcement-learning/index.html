@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jayesh Nair</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<header>
+    <h1 class="site-title">
+        <a href="/" style="color: #B8401E; text-decoration: none;">Jayesh Nair</a>
+    </h1>
+    <nav>
+        
+        
+            
+            <a href="/about/" class="">
+                About
+            </a>
+        
+             | 
+            <a href="/writings/" class="">
+                Blog
+            </a>
+        
+             | 
+            <a href="/notes/" class="">
+                Tech
+            </a>
+        
+             | 
+            <a href="/projects/" class="">
+                Projects
+            </a>
+        
+             | 
+            <a href="/reading/" class="">
+                Reading
+            </a>
+        
+             | 
+            <a href="/excerpts/" class="">
+                Excerpts
+            </a>
+        
+    </nav>
+</header> 
+    <body>
+        <main>
+            
+    
+        
+        
+            <h1>Exploring Reinforcement Learning</h1>
+            <div><p>This was initially a project done as part of Principles of Autonomy and Decision Making at <a href="https://www.thi.de/">Technische Hochschule Ingolstadt</a>. The goal was to implement and test Q-Learning and Deep-Q-Learning in a custom environment.</p>
+<p>Currently, this page serves as a gateway to exploring different RL algorithms on various environments, starting with Value function based methods.</p>
+<h2 id="1-q-learning-and-deep-q-learning">1/ Q-Learning and Deep Q-Learning</h2>
+<h3 id="11-the-environment">1.1/ The Environment:</h3>
+<p>The custom environment was built on top of frameworks such as Gymnasium and PyGames. It essentially, involved an agent (Pikachu) who had to navigate it&rsquo;s way through a maze toward&rsquo;s the goal state (Ash) while collecting reward&rsquo;s (badges) and avoiding terminal state&rsquo;s (Meowth).</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
+  <div style="width: 70%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/assets/RL_custom_env.png" alt="Environment Setup" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Custom environment setup built using Gymnasium and PyGame 
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<p>The following were few of the properties of the environment:</p>
+<pre tabindex="0"><code>grid_size: 10x10 
+discrete_action_space: Up (0), Down(1), Left(3), Right(3) (Discrete(4)) 
+hell_states: list of row, col position of terminal state&#39;s to avoid 
+observation_space: row,col position of the agent 
+badge_states: list of row, col positions of the badges in environment
+rewards: 
+    * Reach goal: +50 
+    * Reach badge_state: +2  
+    * Reach hell_state: -5
+Note: We additionally force a time-limit to the agent, where 
+each step costs -0.05 in reward. 
+
+Episode end: 
+    Episode end&#39;s if the following happens: 
+    * Agent moves to the hell_state 
+    * Agent reaches the goal at (10x10)
+</code></pre><h3 id="12-q-learning">1.2/ Q-Learning:</h3>
+<p>We train a simple Q-Learning table of size N x M x C where,</p>
+<pre tabindex="0"><code>N: No. of rows in environment 
+M: No. of columns in environment 
+C: Action Space within the envirionment 
+</code></pre><p>The hyperparameters for the policy chose are detailed below, the following picture shows, the learned path agent takes to move through the environment.</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
+  <div style="width: 70%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/assets/Policy_Actions_visual.png" alt="Learned Policy" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Visualizing the policy learned by the agent. Arrow show's the state-action pair with highest value.  
+      </figcaption>
+    </figure>
+  </div>
+</div>
+<p>Hyperparmeters used to train the agent on the environment:</p>
+<pre tabindex="0"><code>learning_rate: 0.01 
+gamma: 0.9 
+max_epsilon: 1.0 
+min_epsilon: 0.1 
+epsilon_decay: 0.995 
+Number of Episodes: 50_000 
+</code></pre><h3 id="13-deep-q-learning">1.3/ Deep Q-Learning:</h3>
+<p>We train a simple Deep Q-Learning Network with three fully connected layers, the architecture is as follows:</p>
+<p>The network takes in the current state of the agent, and outputs the estimated Q-values for all the actions.</p>
+<pre tabindex="0"><code># no_states =  2 (State St of agent)
+# no_action =  4 (Action space)  
+
+nn.Linear(no_states, 16)
+nn.Linear(16, 16)
+nn.Linear(16, no_actions)
+</code></pre><p>Hyperparameters for the same:</p>
+<pre tabindex="0"><code>learning_rate    = 0.001  
+gamma            = 0.9    
+buffer_limit     = 50_000 
+batch_size       = 16     
+num_episodes     = 10_000 
+max_steps        = 1_000  
+MIN_EPSILON      = 0.01 
+DECAY_RATE       = 0.9999 
+MAX_EPSILON      = 1.0 
+</code></pre><div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
+  <div style="width: 70%; max-width: 700px;">
+    <figure style="margin: 0;">
+      <img src="/projects/assets/DQN_training_curve.png" alt="Learned Policy" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
+        Loss curve while training the Deep Q-Learning Network.  
+      </figcaption>
+    </figure>
+  </div>
+</div>
+</div>
+        
+    
+
+        </main>
+        <footer>
+</footer> 
+    </body>
+</html>

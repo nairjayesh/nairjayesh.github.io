@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on Jayesh Nair</title>
+    <link>http://localhost:1313/tags/audio/</link>
+    <description>Recent content in Audio on Jayesh Nair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio Transcription Tool</title>
+      <link>http://localhost:1313/projects/yatt/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/yatt/</guid>
+      <description>Working on learning about ASR and shipping something cool.</description>
+    </item>
+    <item>
+      <title>Reader - Text To Speech Tool</title>
+      <link>http://localhost:1313/projects/read-aloud/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/read-aloud/</guid>
+      <description>Pocket is dead, and speechify costs money. A project to explore if we can run TTS models locally on a phone, and create a great reading experience.&#xA;Track notes and status starting here</description>
+    </item>
+  </channel>
+</rss>

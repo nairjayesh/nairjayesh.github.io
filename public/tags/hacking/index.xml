@@ -4,7 +4,7 @@
     <title>Hacking on Jayesh Nair</title>
     <link>http://localhost:1313/tags/hacking/</link>
     <description>Recent content in Hacking on Jayesh Nair</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/writings/2024-5-6-hack/</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/2024-5-6-hack/</guid>
-      <description>&lt;p&gt;Reading lists I&amp;rsquo;d like to maintain on the subject of hacking that I&amp;rsquo;ve found to resonate with me!&lt;/p&gt;&#xA;&lt;p&gt;Thankyou to the authors for publishing on the Internet!&lt;/p&gt;&#xA;&lt;p&gt;from ESR&amp;rsquo;s Jargon File:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;hacker: n.&#xA;A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. &lt;br&gt;&#xA;RFC1392, the Internet Users&amp;rsquo; Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.&lt;/p&gt;</description>
+      <description>Thank you to the authors for publishing on the Internet!&#xA;from ESR&amp;rsquo;s Jargon File:&#xA;hacker: n. A person who enjoys exploring the details of programmable systems and how to stretch their capabilities, as opposed to most users, who prefer to learn only the minimum necessary. RFC1392, the Internet Users&amp;rsquo; Glossary, usefully amplifies this as: A person who delights in having an intimate understanding of the internal workings of a system, computers and computer networks in particular.</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Abouts on Jayesh Nair</title>
     <link>http://localhost:1313/about/</link>
     <description>Recent content in Abouts on Jayesh Nair</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a full-time student pursuing Masters in AI &amp;amp; Autonomous Systems at Technische Hochschule Ingolstadt. Previously I used to work as a Solution&amp;rsquo;s Engineer at &lt;a href=&#34;https://www.minto.ai&#34;&gt;Minto.ai&lt;/a&gt; and had earned a bachelors in Mechanical Engineering from Pune, India.&lt;/p&gt;&#xA;&lt;!-- My full CV can be found [here].  --&gt;&#xA;&lt;!-- Apart from that, I like Generative Art, playing with SOTA tools, to make music, videos, data visualizations and more. Some of my work can be found [here].  --&gt;&#xA;&lt;p&gt;I have a deep interest in making computer&amp;rsquo;s &amp;ldquo;see&amp;rdquo; things, along with the &amp;ldquo;tools&amp;rdquo; that make them see such as traditional camera&amp;rsquo;s, event based camera&amp;rsquo;s, light-field systems etc. I am constantly on the lookout for opportunities to work on the same.&lt;/p&gt;</description>
+      <description>I&amp;rsquo;m a full-time student pursuing Masters in AI &amp;amp; Autonomous Systems at Technische Hochschule Ingolstadt. Previously I used to work as a Solution&amp;rsquo;s Engineer at Minto.ai and had earned a bachelors in Mechanical Engineering from Pune, India.&#xA;I have a deep interest in making computer&amp;rsquo;s &amp;ldquo;see&amp;rdquo; things, along with the &amp;ldquo;tools&amp;rdquo; that make them see such as traditional camera&amp;rsquo;s, event based camera&amp;rsquo;s, light-field systems etc. I am constantly on the lookout for opportunities to work on the same.</description>
     </item>
   </channel>
 </rss>
