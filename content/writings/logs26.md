@@ -6,6 +6,8 @@ tags:
   - reading
 date: 2026-01-01
 ---
+**Jan 23 '26.**  I felt like posting a short rant today. There's an an analogy in the book [The Untethered Soul](https://untetheredsoul.com/), which talks about how you end up identifying yourself as the mind - akin to how you identify yourself as part of watching a movie. I feel, esp. with most media for consumption (be it movies, anime, pornography & news) only "hook" you in - the moment you start identifying yourself as part of the narrative being presented. It is designed for immersion. Given the right circumstances, the right kind of person and narrative, we can get sucked in. 
+
 **Jan 1 '26.** Happy New Year!  My last log was posted in October.  I didn't feel the intellectual growth compared to the year 2024.  That being said, there are a few things that I was happy about.  
 
 Firstly, this website itself. I've had a website, or some place to host writings in the past, but this was the first time I felt like calling something "a home on the internet" *(yes, it sounds cheeky)*. I combined a few elements from [websites I've visited](https://nairjayesh.github.io/writings/websites/). The **"refs"** section is where I host various pdf's (inspired from [worrydream](https://worrydream.com/refs/) and [gwern](gwern.net)). **Readings** - which hosts books/articles that I've read. I'm planning to improve the design for to make it more like a virtual shelf (see [here](https://dynamicland.org/2024/Roots/)).  The last addition was **Logs**. It was built from a need to have a single place to store stray links, thoughts and content, the inspiration came from [Ran Prier's site](https://ranprieur.com/). Apart from these, other sections seem standard. 
