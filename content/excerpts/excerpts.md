@@ -6,6 +6,9 @@ description: "Interesting excerpts I've come across."
 
 Bookmarks for passages / excerpts I come across that resonate with me, for whatever reason. 
 
+> The greatest challenge to any thinker is stating the problem in a way that will allow a solution.
+- attributed to Bertrrand Russell
+
 > I go where they never can   
 > I float, I don't ever land  
 > When it's dark, you don't know   
