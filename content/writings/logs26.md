@@ -8,7 +8,7 @@ date: 2026-01-01
 ---
 **Jan 29 '26.** I found an old video dated from 2022 yesterday. It was the first time I recorded a "project" I did by writing programs and running them on my computer. Although I have been working with computers since I was a child, and did write some very basic programs in languages such as HTML, LOGO, Java and MATLAB from time to time, I never really got into programming. My first job was far from the aspect of day to day programming. Yet, I made this video during that time. Looking back, it feels like, I always stuck with this, even when it was not something I was paid to do, nor was good at. It was simply something I was interested in. 
 
-Video can be found [here](/refs/My_first_interesting_animation 1.mp4), if you'res curious. I used the Processing framework to make some circles move around screen.  
+Video can be found <a href="/refs/My_first_interesting_animation 1.mp4" target="_blank">here</a>, if you'res curious. I used the Processing framework to make some circles move around screen.  
 
 **Jan 28 '26.**  
 
