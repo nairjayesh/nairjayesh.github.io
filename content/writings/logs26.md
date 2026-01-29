@@ -8,6 +8,8 @@ date: 2026-01-01
 ---
 **Jan 29 '26.** I found an old video dated from 2022 yesterday. It was the first time I recorded a "project" I did by writing programs and running them on my computer. Although I have been working with computers since I was a child, and did write some very basic programs in languages such as HTML, LOGO, Java and MATLAB from time to time, I never really got into programming. My first job was far from the aspect of day to day programming. Yet, I made this video during that time. Looking back, it feels like, I always stuck with this, even when it was not something I was paid to do, nor was good at. It was simply something I was interested in. 
 
+[New] Check out the ongoing list of [ML Sites](https://nairjayesh.github.io/writings/mlwebsites/) I'm collecting. Let me know if there are more (I'm pretty sure I'll miss a ton!)  
+
 **Jan 28 '26.**  I'm starting a new project. I call it ML-Utils. It's a log of problems that occur in my daily life, which can be solved using Machine Learning. Partly this is in spirit of [strangely shaped tools post](https://near.blog/llms-are-strangely-shaped-tools/). Although I'd like to explore models, beyond LLMs. 
 
 Starting with the problem of Noise Removal in videos / audios. I used RNNNoise models (more detailed explanation on them later) to remove background noise for the [Jonathan Blow talk on Deep Work](https://www.youtube.com/watch?v=WFl_16MlsDA). You can check out the original where there is background noise of audiences. 
