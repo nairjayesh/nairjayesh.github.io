@@ -16,7 +16,7 @@ Just as there is a wide gulf between answering an interview question on a whiteb
 While this code is over 10 years old, this chapter will demonstrate that its robust design makes it exceptionally readable and understandable. It still exemplifies many important facets in design, such as encapsulation, abstraction, decomposition, and more. If you want to explore the code more thoroughly, I've pushed a [fully commented version of it to GitHub](https://github.com/mgp/bittorrent-dissected). 
 
 ## Protocol description
-
+---
 Before exploring the design of the mainline client, we must understand the underlying BitTorrent protocol. The majority of this understanding comes from the [BitTorrent protocol 1.0 specification](https://wiki.theory.org/BitTorrentSpecification) and archived mailing list discussions. Let's start by defining four basic terms:
 
 * A *torrent* is a set of one or more files that clients download.

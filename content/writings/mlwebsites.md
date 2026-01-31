@@ -14,3 +14,4 @@ I [posted](https://nairjayesh.github.io/writings/websites/) a collection of link
 - [Gregory Gunderson](https://gregorygundersen.com/) 
 - [E2EML](https://e2eml.school/) (*esp* [Transformers](https://e2eml.school/transformers.html))  
 - [Aman.AI](https://aman.ai/) 
+- [Yuxi on the Wired](https://yuxi.ml/)
