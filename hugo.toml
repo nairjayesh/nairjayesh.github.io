@@ -1,4 +1,4 @@
-baseURL = 'https://nairjayesh.githuub.io/'
+baseURL = 'https://nairjayesh.github.io/'
 languageCode = 'en-us'
 title = 'Jayesh Nair'
 
@@ -7,6 +7,11 @@ title = 'Jayesh Nair'
 
 [markup.goldmark.renderer]
   unsafe = true  # Allows HTML in markdown
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = true  # Set this to TRUE to work with the CSS above
 
 [menu]
   [[menu.main]]

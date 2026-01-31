@@ -98,12 +98,47 @@ header, footer {
     margin-left: 5ch;
 }
 
-/* Code Blocks */
-code {
+/* 1. Inline Code (Keep this simple for text) */
+:not(pre) > code {
     font-family: "Courier New", Courier, monospace;
     background-color: #eaeaea;
     padding: 0.2rem 0.4rem;
     border-radius: 3px;
+    font-size: 0.9em;
+}
+
+/* 2. Fix for Code Blocks (Prevents the "staircase" and color conflicts) */
+.highlight table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5rem 0;
+    background-color: #282a36 !important; /* Dracula Background */
+    border-radius: 8px;
+    overflow: hidden;
+    display: block; 
+    overflow-x: auto;
+}
+
+.highlight pre {
+    margin: 0;
+    padding: 1rem;
+    background-color: transparent !important; /* Let the table handle color */
+    font-family: 'Fira Code', monospace; /* Modern font */
+}
+
+.highlight td:first-child {
+    padding: 1rem 15px 1rem 1rem;
+    user-select: none;
+    text-align: right;
+    width: 1%;
+    white-space: nowrap;
+    background-color: #21222c; /* Slightly darker for line number gutter */
+    color: #6272a4; /* Dracula comment color for numbers */
+}
+
+.highlight td:last-child {
+    width: 100%;
+    padding: 1rem;
 }
 
 /* Footer */
