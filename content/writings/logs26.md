@@ -6,7 +6,7 @@ tags:
   - reading
 date: 2026-01-01
 ---
-**Jan 31 '26.** [New] Posted a mirrored version of [[bittorrent-notes-mirror|BitTorrent codebase walkthrough]] by Michael Parker. 
+**Jan 31 '26.** [New] Posted a mirrored version of [BitTorrent codebase walkthrough](https://nairjayesh.github.io/notes/bittorrent-notes-mirror) by Michael Parker. 
 
 I'm unhappy about some of the problems during editing and rendering of documents. One is that I need to add custom HTML tags within the markdown files for images. Secondly, the way codeblocks are rendered is still terrible.   
 
