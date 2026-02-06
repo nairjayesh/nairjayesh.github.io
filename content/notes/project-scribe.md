@@ -15,7 +15,6 @@ The way I would like to record this is, for each session and update, the goal, s
 
 Long term goal: Nothing concrete, but the direction is to create something useful and beautiful like [Obsidian](https://obsidian.md/) .  For personal use. 
 #### Log #1:
-If you're curious, take a look at this [sessions chat/prompts]()
 
 Additional context, as of the beginning, I'm not familiar with Web-Developement, and have a basic understanding of HTML/CSS. Very limited experience using Javascript. Another reason why I've chosen to not open source the code just yet. 
 
