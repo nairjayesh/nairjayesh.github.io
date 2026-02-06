@@ -17,7 +17,7 @@ The way I would like to record this is, for each session and update, the goal, s
 Long term goal: Nothing concrete, but the direction is to create something useful and beautiful like [Obsidian](https://obsidian.md/) .  For personal use. 
 #### Log #1:
 
-*Additional context*, at this point, I'm not familiar with Web-Developement, and have a basic understanding of HTML/CSS. Very limited experience using Javascript. Another reason why I've chosen to not open source the code just yet. 
+*Additional context*, at this point, I'm not familiar with Web-Developement, and have a basic understanding of HTML/CSS. Very limited experience using Javascript. Another reason why I've chosen to not open source the code just yet.  (Note if the video below isn't showing up- [click here](https://www.youtube.com/watch?v=kQh5xVU_ErM))
 
 `{{< youtube kQh5xVU_ErM >}}`
 
