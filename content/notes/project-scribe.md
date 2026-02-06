@@ -18,25 +18,7 @@ Long term goal: Nothing concrete, but the direction is to create something usefu
 
 *Additional context*, at this point, I'm not familiar with Web-Developement, and have a basic understanding of HTML/CSS. Very limited experience using Javascript. Another reason why I've chosen to not open source the code just yet. 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 80%; max-width: 800px;">
-    <figure style="margin: 0;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-        <iframe 
-          src="https://www.youtube.com/embed/kQh5xVU_ErM" 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-          title="Scribe Usage Video"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen>
-        </iframe>
-      </div>
-      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
-        Scribe - initial version usage video.
-      </figcaption>
-    </figure>
-  </div>
-</div>
+`{{< youtube kQh5xVU_ErM >}}`
 
 For starters there were a couple of things I decided: 
 - To use a simple FastAPI setup to get things running. 
