@@ -7,3 +7,5 @@ tags: ["audio", "ASR", "deep learning"]
 ---
 
 Working on learning about [ASR](https://en.wikipedia.org/wiki/Speech_recognition) and shipping something cool. 
+
+Check out initial development notes [here](https://nairjayesh.github.io/notes/project-scribe/)  
