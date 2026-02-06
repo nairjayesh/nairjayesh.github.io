@@ -23,9 +23,11 @@ Additional context, as of the beginning, I'm not familiar with Web-Developement,
     <figure style="margin: 0;">
       <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
         <iframe 
-          src="https://youtu.be/kQh5xVU_ErM" 
+          src="https://www.youtube.com/embed/kQh5xVU_ErM" 
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          title="Scribe Usage Video"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          referrerpolicy="strict-origin-when-cross-origin"
           allowfullscreen>
         </iframe>
       </div>
@@ -34,7 +36,7 @@ Additional context, as of the beginning, I'm not familiar with Web-Developement,
       </figcaption>
     </figure>
   </div>
-</div> 
+</div>
 
 For starters there were a couple of things I decided: 
 - To use a simple FastAPI setup to get things running. 
