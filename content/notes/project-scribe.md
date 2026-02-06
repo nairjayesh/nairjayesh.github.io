@@ -6,6 +6,7 @@ tags:
   - programming
 description: My attempt to create an editor for Speech to text application. It's also a record of working with AI Coding tools  and models.
 finished:
+date: 2026-02-06
 ---
 I'm currently working with Automatic Speech Recognition models as part of my thesis. I thought it would be fun to create an editor front end to work with these models, as I read more of them. Additionally, this would be a good opportunity to test AI Coding tools. For this I'm using OpenCode along with it's free models. 
 
