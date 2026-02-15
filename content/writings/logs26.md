@@ -6,7 +6,7 @@ tags:
   - reading
 date: 2026-01-01
 ---
-**Feb 15 '26.** One sign I have  discovered for myself, as to if i'm truly immersed in something (not just spending time on something) is if i dream about it. Alternative version of this is, do i randomly think about the thing in shower. If these don't happen then, there are other things I'm doing which have substituted for the activity in question. This has been a constant sign which shows as 
+**Feb 15 '26.** One sign I have  discovered for myself, as to if i'm truly immersed in something (not just spending time on something) is if i dream about it. Alternative version of this is, do i randomly think about the thing in shower. If these don't happen then, there are other things I'm doing which have substituted for the activity in question. 
 
 **Feb 14 '26.** Some more "philosophising" - because why not. You can understanding programming from different aspects, just as you can understanding any word, and act behind it. Take for example writing as an act. 
 
