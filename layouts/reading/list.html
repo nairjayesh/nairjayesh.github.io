@@ -1,5 +1,6 @@
 {{ define "main" }}
-<article>
+<section>
+    <h1>{{ .Title }}</h1>
     {{ .Content }}
     
     <ul>
@@ -7,5 +8,5 @@
         <li>{{ .author }} - <a href="{{ .url }}" target="_blank">{{ .title }}</a></li>
     {{ end }}
     </ul>
-</article>
+</section>
 {{ end }} 

@@ -15,10 +15,6 @@ title = 'Jayesh Nair'
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-  [[menu.main]]
     name = "Blog"
     url = "/writings/"
     weight = 3
@@ -38,7 +34,6 @@ title = 'Jayesh Nair'
     name = "Excerpts"
     url = "/excerpts/"
     weight = 7
-  # ... other menu items
 
   [module]
   [[module.imports]]

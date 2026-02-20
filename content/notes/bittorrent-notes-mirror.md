@@ -38,13 +38,9 @@ It's important that a client verifies the integrity of data that it downloads fr
 
 To guard against this, the metainfo file specifies a positive *piece size* that divides the torrent into *pieces*. All pieces preceding the last piece are this size. If the piece size does not divide evenly into the total size of the torrent, then the last piece is a smaller, positive size. The metainfo file also specifies the SHA-1 hash of each piece. When a client downloads a piece from a peer, it computes the SHA-1 hash of that piece, and then compares its value against the expected value from the metainfo file. If they differ, then the client can blacklist that peer, and then download the piece again from a different peer. This way a malicious peer can only corrupt the download of a single piece. That peer cannot corrupt the download of the entire torrent.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 100%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131123341.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
+<figure>
+  <img src="/notes/image_20260131123341.png" alt="Metainfo file structure">
+</figure>
 
 **Tracker announce URL**
 
@@ -54,13 +50,9 @@ Each announcement by a client includes how many bytes it has downloaded and uplo
 
 Each announcement by a client also includes a unique identifier, along with the IP address and port number on which it listens for incoming connections by peers. This lets the tracker build a list of all clients participating in the swarm. If the client sends an announcement to the tracker with the query parameter `numwant`, then the tracker replies with the IP addresses and port numbers of other peers in the swarm. This is how the client finds peers to connect to and exchange data with.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 100%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131123557.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
+<figure>
+  <img src="/notes/image_20260131123557.png" alt="Tracker announce flow">
+</figure>
 
 ### Bencoding
 
@@ -318,42 +310,29 @@ A `StorageWrapper` instance raises the level of abstraction. It presents a view 
 But while the client is still downloading the torrent, the `StorageWrapper` instance can temporarily store a piece at an global offset that is smaller than its final global offset. It does this to avoid preallocating all the files belonging to the torrent on startup, since not all platforms support efficient preallocation through the `truncate` system call. If the client has downloaded only `n` pieces, then the `StorageWrapper` instance has allocated only `n * size` bytes on disk. Only once the client has downloaded all the pieces is each one stored at its final global offset.
 
 For example, consider a torrent with just four pieces. Say the client downloads piece 3 first. `StorageWrapper` cannot write this piece to its final global offset just yet, and so it temporarily stores this piece at the final global offset of piece 0:
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 70%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131125309.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
+
+<figure class="fullwidth">
+  <img src="/notes/image_20260131125309.png" alt="StorageWrapper piece 3 first">
+</figure>
 
 The client then downloads piece 1. `StorageWrapper` writes this piece directly to its final global offset:
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 70%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131125323.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
-  
+
+<figure class="fullwidth">
+  <img src="/notes/image_20260131125323.png" alt="StorageWrapper piece 1">
+</figure>
+
 The client then downloads piece 0. Piece 3 currently occupies its final global offset, and so `StorageWrapper` relocates this piece to the final global offset of piece 2, which is still missing. Once this is done, `StorageWrapper` writes piece 0 directly to its final global offset:
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 70%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131125342.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
+<figure class="fullwidth">
+  <img src="/notes/image_20260131125342.png" alt="StorageWrapper piece 0">
+</figure>
 
 Finally, the client downloads piece 2. `StorageWrapper` relocates piece 3 to its final global offset, and then writes piece 2 directly to its own final global offset:
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 70%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/notes/image_20260131125413.png"  style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    </figure>
-  </div>
-  </div>
-  
+
+<figure class="fullwidth">
+  <img src="/notes/image_20260131125413.png" alt="StorageWrapper piece 2">
+</figure>
+
 At this point, `StorageWrapper` has written each piece to its final global offset, and the torrent is complete.
 
 Other modules in the application interact with the `StorageWrapper`, because such modules refer to pieces, not file intervals. `StorageWrapper` delegating to its `Storage` instance as a design choice that simplifies its own implementation. Moreover, the `StorageWrapper` class exemplifies encapsulation: No other modules even need to know that pieces are composed of file intervals, or even that `StorageWrapper` delegates to an underlying `Storage` instance.

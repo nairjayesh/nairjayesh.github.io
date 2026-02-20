@@ -1,0 +1,5 @@
+{{ $id := .Get 0 }}
+{{ $content := .Inner }}
+<label for="sn-{{ $id }}" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="sn-{{ $id }}" class="margin-toggle"/>
+<span class="sidenote">{{ $content | markdownify }}</span>

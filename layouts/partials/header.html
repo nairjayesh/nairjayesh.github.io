@@ -2,19 +2,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/tufte.css">
     <link rel="stylesheet" href="/css/style.css">
 </head>
 <header>
-    <h1 class="site-title">
-        <a href="/" style="color: #B8401E; text-decoration: none;">{{ .Site.Title }}</a>
-    </h1>
-    <nav>
-        {{ $currentPage := . }}
-        {{ range $index, $item := .Site.Menus.main }}
-            {{ if gt $index 0 }} | {{ end }}
-            <a href="{{ .URL }}" class="{{ if eq $currentPage.RelPermalink .URL }}active{{ end }}">
-                {{ .Name }}
-            </a>
-        {{ end }}
-    </nav>
+    <div class="site-header">
+        <h1 class="site-title">
+            <a href="/">{{ .Site.Title }}</a>
+        </h1>
+        <nav>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                {{ $isActive := or (eq $currentPage.RelPermalink .URL) (hasPrefix $currentPage.RelPermalink .URL) }}
+                <a href="{{ .URL }}" class="{{ if $isActive }}active{{ end }}">
+                    {{ .Name }}
+                </a>
+            {{ end }}
+        </nav>
+    </div>
 </header> 

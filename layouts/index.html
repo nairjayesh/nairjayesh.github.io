@@ -1,22 +1,22 @@
 {{ define "main" }}
-<div style="text-align: center;">
-  <figure style="margin: 10px 0; text-align: center; margin-top: 0px;">
-    <img src="/images/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg" alt="Wait-For-It" style="width: 100%; height: 500px; object-fit: cover; display: block;">
-    <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; color: #666; margin-top: 5px;">
-        Casper David Friedrich - Wanderer Above the Sea of Fog
-    </figcaption>
-</figure>
+<section class="home-page">
+  <p class="margin-hero">
+    <img src="/images/IMG_9798.jpeg">
+    <span class="margin-hero-caption">Salzburg, Austria</span>
+  </p>
 
-<h2>
-  Learning to teach machines perception.
-</h2>
+  <h2>
+    Learning to teach machines perception.
+  </h2>
 
-<p><strong>Logs:</strong></p> <a href="https://nairjayesh.github.io/writings/logs26/">2026</a>, <a href="https://nairjayesh.github.io/writings/logs25/">2025</a>
+  <p>I'm a full-time student pursuing Masters in AI & Autonomous Systems at Technische Hochschule Ingolstadt. Previously I used to work as a Solution's Engineer at <a href="https://www.minto.ai">Minto.ai</a> and had earned a bachelors in Mechanical Engineering from Pune, India.</p>
 
+  <p>I have a deep interest in making computers "see" things, along with the "tools" that make them see such as traditional cameras, event-based cameras, light-field systems etc. I am constantly on the lookout for opportunities to work on the same.</p>
 
-<div class="social-container">
-  {{ partial "social.html" . }}
-</div>
-</div>
+  <p><strong>Logs:</strong> <a href="/writings/logs26/">2026</a>, <a href="/writings/logs25/">2025</a></p>
 
+  <div class="social-container">
+    {{ partial "social.html" . }}
+  </div>
+</section>
 {{ end }}

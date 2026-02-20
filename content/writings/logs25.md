@@ -67,16 +67,10 @@ The finance sector was born and it destroyed [the very map](https://geohot.githu
 
 Well, Wealth,  Urban Mobility design, building inter-generational stability and wealth was on my mind. As an aside theme. Also see - [WTF Happened in 1971](https://wtfhappenedin1971.com/). I mean just look at this chart! 
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 30px 0;">
-  <div style="width: 70%; max-width: 700px;">
-    <figure style="margin: 0;">
-      <img src="/writings/image.png" alt="Source: WTF Happened in 1971" style="width: 100%; height: auto; border-radius: 5px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <figcaption style="text-align: center; font-style: italic; color: #666; margin-top: 8px;">
-        Source: WTF Happened in 1971
-      </figcaption>
-    </figure>
-  </div>
-  </div>
+<figure class="fullwidth">
+  <img src="/writings/image.png" alt="Source: WTF Happened in 1971">
+  <figcaption>Source: WTF Happened in 1971</figcaption>
+</figure>
 
 Also found another short story by the Ted Kaczynski to be quite interesting - [Ship of Fools](https://theanarchistlibrary.org/library/ted-kaczynski-ship-of-fools).
 

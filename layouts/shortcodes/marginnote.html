@@ -1,0 +1,5 @@
+{{ $id := .Get 0 }}
+{{ $content := .Inner }}
+<label for="mn-{{ $id }}" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-{{ $id }}" class="margin-toggle"/>
+<span class="marginnote">{{ $content | markdownify }}</span>
