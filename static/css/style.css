@@ -1,160 +1,127 @@
 /*
-    Learning CSS: via reading CSS 
-    -----------------------------
-    selector {
-        property: property value;        
-    } <-- This entire block is a declaration 
+    Custom styles layered on top of Tufte CSS
+    -----------------------------------------
+    This file loads AFTER tufte.css, so it overrides defaults.
+    
+    CSS Cascading Order:
+    1. Browser defaults
+    2. External stylesheets (in order they appear)
+    3. Inline styles
+    
+    Load order in your HTML:
+    <link rel="stylesheet" href="tufte.css"/>
+    <link rel="stylesheet" href="style.css"/>
+*/
 
-    Property conflicts: 
-*/ 
 :root { 
-    --header-color: #B8401E;
-    --bgc: #f9f9f9;
+    --accent-color: #B8401E;
+    --bgc: #fffff8;
+    --text-color: #111;
+    --content-width: 55%;
+    --margin-width: 12.5%;
 }
 
-/* Header Title */
-h1.site-title {
-    font-size: 2.5em;
-    color: #B8401E;
-    margin-bottom: 1rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
-}
- 
-h1 a{ 
-    color: inherit;
+html {
+    color-scheme: light only;
 }
 
-/*Challenge, try to see why the hover component doesn't work*/
- h1 a:hover { 
-    text-decoration: underline;
-} 
-
-/* Base */
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 16px;
-    line-height: 1.8;
-    background-color: var(--bgc);
-    color: #333;
-    margin: 0;
-    padding: 0;
+    background-color: #fffff8 !important;
+    color: #111 !important;
 }
 
-/* Links */
-a {
-    color: #000000;
+header {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: var(--margin-width);
+    padding: 2rem 0.5rem 2rem 1rem;
+    text-align: right;
+    box-sizing: border-box;
+}
+
+.site-header {
+    position: sticky;
+    top: 2rem;
+}
+
+h1.site-title {
+    color: var(--accent-color);
+    font-style: normal;
+    font-size: 2.5rem;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    line-height: 1.2;
+}
+
+h1.site-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1.site-title a:hover {
     text-decoration: underline;
 }
 
-a:hover {
-    text-decoration: underline;
-    opacity: 0.8;
-}
-
-/* Navigation */
 nav {
-    text-align: center;
-    margin: 1rem 0;
-    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.5rem;
 }
 
 nav a {
-    color: #000000;
-    text-decoration: underline;
-    margin: 0 0.5rem;
-    padding: 0.25rem;
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 1.25rem;
+    padding: 0.2rem 0;
 }
 
-/*Doesn't work beyond the first nested level*/ 
+nav a:hover {
+    color: var(--accent-color);
+}
+
 nav a.active {
-    color: #B8401E;
-    text-decoration: underline;
+    color: var(--accent-color);
+    font-weight: bold;
+    border-right: 2px solid var(--accent-color);
+    border-bottom: none;
+    padding-right: 0.5rem;
 }
 
-nav a.active:hover {
-    opacity: 0.8;
-    text-decoration: underline;
-}
-
-/* Layout */
-main {
-    max-width: 60ch;
-    margin: 2rem auto 0 auto;
-    padding: 1rem;
-}
-
-header, footer {
-    max-width: 60ch;
-    margin: 0 auto;
-    padding: 1rem;
+footer {
     text-align: center;
+    font-size: 1.1rem;
+    color: #999;
+    border-top: 1px solid #ccc;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    width: var(--content-width);
 }
 
-/* Margin Notes */
-.note {
-    position: relative;
-    font-size: 0.9em;
-    color: #666;
-    margin-left: 5ch;
+.metadata-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #fffff8;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    width: 55%;
 }
 
-/* 1. Inline Code (Keep this simple for text) */
+.metadata-box span {
+    font-size: 1.1rem;
+    color: #333;
+}
+
 :not(pre) > code {
-    font-family: "Courier New", Courier, monospace;
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
     background-color: #eaeaea;
     padding: 0.2rem 0.4rem;
     border-radius: 3px;
-    font-size: 0.9em;
-}
-
-/* 2. Fix for Code Blocks (Prevents the "staircase" and color conflicts) */
-.highlight table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 1.5rem 0;
-    background-color: #282a36 !important; /* Dracula Background */
-    border-radius: 8px;
-    overflow: hidden;
-    display: block; 
-    overflow-x: auto;
-}
-
-.highlight pre {
-    margin: 0;
-    padding: 1rem;
-    background-color: transparent !important; /* Let the table handle color */
-    font-family: 'Fira Code', monospace; /* Modern font */
-}
-
-.highlight td:first-child {
-    padding: 1rem 15px 1rem 1rem;
-    user-select: none;
-    text-align: right;
-    width: 1%;
-    white-space: nowrap;
-    background-color: #21222c; /* Slightly darker for line number gutter */
-    color: #6272a4; /* Dracula comment color for numbers */
-}
-
-.highlight td:last-child {
-    width: 100%;
-    padding: 1rem;
-}
-
-/* Footer */
-footer {
-    font-size: 0.8em;
-    color: #999;
-    border-top: 2px solid #000;
-    margin-top: 2rem;
-    padding-top: 1rem;
-}
-
-/* Articles */
-article p {
     font-size: 1rem;
-    line-height: 1.5;
-    margin-bottom: 1rem;
 }
 
 article p span {
@@ -164,25 +131,270 @@ article p span {
     color: #666;
 }
 
-/* Metadata Box */
-.metadata-box {
-    border: 1px solid #ddd;
-    padding: 10px;
-    margin-bottom: 20px;
-    background-color: #f9f9f9;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    align-items: center;
-}
-
-.metadata-box span {
-    font-size: 0.9em;
-    color: #333;
-}
-
-/* Main Text */
 p b {
-    color: #000000;
     font-weight: bold;
+}
+
+.footnotes {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ccc;
+    font-size: 1.1rem;
+    width: 55%;
+}
+
+.footnotes hr {
+    display: none;
+}
+
+.footnotes ol {
+    padding-left: 1.5rem;
+    width: 100%;
+}
+
+.footnotes li {
+    margin-bottom: 0.5rem;
+}
+
+.footnote-ref {
+    font-size: 0.8em;
+    vertical-align: super;
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.footnote-backref {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+article {
+    padding: 2rem 0rem;
+}
+
+figure {
+    margin: 1.5rem 0;
+    padding: 0;
+    max-width: 55%;
+}
+
+figure img,
+figure video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+}
+
+figcaption {
+    float: none;
+    clear: none;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    max-width: 100%;
+    text-align: left;
+}
+
+figure.fullwidth {
+    max-width: 90%;
+}
+
+figure.fullwidth figcaption {
+    margin-right: 0;
+}
+
+pre > code {
+    width: 52.5%;
+    margin-left: 2.5%;
+    overflow-x: auto;
+    display: block;
+    font-size: 0.9rem;
+    line-height: 1.42;
+}
+
+pre.fullwidth > code {
+    width: 90%;
+}
+
+div.highlight {
+    width: 52.5%;
+    margin: 1.5rem 0 1.5rem 2.5%;
+    overflow-x: auto;
+}
+
+div.highlight pre {
+    margin: 0;
+    padding: 0;
+    background-color: transparent !important;
+}
+
+div.highlight code {
+    font-size: 0.9rem;
+    line-height: 1.42;
+}
+
+div.highlight table {
+    width: 100%;
+    margin: 0;
+    background-color: #282a36 !important;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+div.highlight td:first-child {
+    padding: 1rem 15px 1rem 1rem;
+    user-select: none;
+    text-align: right;
+    width: 1%;
+    white-space: nowrap;
+    background-color: #21222c;
+    color: #6272a4;
+}
+
+div.highlight td:last-child {
+    width: 100%;
+    padding: 1rem;
+}
+
+iframe {
+    max-width: 100%;
+    display: block;
+    margin: 1.5rem auto;
+}
+
+.iframe-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;
+    margin: 1.5rem 0;
+}
+
+.iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.home-page {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.margin-hero {
+    float: right;
+    clear: right;
+    margin-right: -0%;
+    width: 35%;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    line-height: 1.3;
+    vertical-align: baseline;
+    position: relative;
+}
+
+.margin-hero img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.margin-hero-caption {
+    display: block;
+    font-style: italic;
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    text-align: left;
+}
+
+.home-page figure {
+    margin: 0 0 1.5rem 0;
+}
+
+.home-page figcaption {
+    font-style: italic;
+    color: #666;
+    text-align: left;
+}
+
+.home-page .social-container {
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.home-page .social-container a {
+    color: var(--text-color);
+}
+
+@media (max-width: 760px) {
+    header {
+        position: relative;
+        width: 100%;
+        text-align: left;
+        padding: 1rem 0;
+        left: 0;
+    }
+    
+    .site-header {
+        position: relative;
+        top: 0;
+    }
+    
+    h1.site-title {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    
+    nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+    
+    nav a.active {
+        border-right: none;
+        border-bottom: 2px solid var(--accent-color);
+        padding-right: 0;
+        padding-bottom: 0.2rem;
+    }
+    
+    .margin-hero {
+        display: none;
+    }
+    
+    footer {
+        width: 100%;
+    }
+    
+    .metadata-box {
+        width: 100%;
+    }
+    
+    .footnotes {
+        width: 100%;
+    }
+    
+    .home-page figure {
+        max-width: 100%;
+    }
+    
+    figure {
+        max-width: 100%;
+    }
+    
+    pre > code,
+    div.highlight,
+    div.highlight table {
+        max-width: 100%;
+        width: 100%;
+        margin-left: 0;
+    }
 }
