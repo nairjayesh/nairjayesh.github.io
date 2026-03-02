@@ -6,6 +6,24 @@ tags:
   - reading
 date: 2026-01-01
 ---
+**Mar 2 '26.** Playing around with [fractal trees](https://fractalfoundation.org/OFC/OFC-1-1.html), helps get my mind off things now. Here's one that I found pretty! Will upload code and demo on site soon. 
+<figure class="fullwidth">
+  <img src="/writings/Pasted image 20260303002006.png" >
+  <figcaption>When you set growth angle shift by  0.6 rads</figcaption>
+</figure>
+
+<figure class="fullwidth">
+  <img src="/writings/Pasted image 20260303004611.png" >
+  <figcaption>When you set growth angle shift by  0.9 rads</figcaption>
+</figure>
+
+<figure class="fullwidth">
+  <img src="/writings/Pasted image 20260303004753.png" >
+  <figcaption>When you set growth angle shift  by 1.8 rads</figcaption>
+</figure>
+
+**Feb 23 '26.** The blog now has an updated design. I always wanted a design that provides a better reading experience in terms of fonts and other artifacts (such as codeblocks). I used the [Tufte-CSS](https://edwardtufte.github.io/tufte-css/) by David Liepmann. and OpenCode + GLM 5 code model to port the old style.css into a format compatible with tufte-css. There's still a lot to improve, but I'm happy with this first result.  
+
 **Feb 15 '26.** One sign I have  discovered for myself, as to if i'm truly immersed in something (not just spending time on something) is if i dream about it. Alternative version of this is, do i randomly think about the thing in shower. If these don't happen then, there are other things I'm doing which have substituted for the activity in question. 
 
 **Feb 14 '26.** Some more "philosophising" - because why not. You can understanding programming from different aspects, just as you can understanding any word, and act behind it. Take for example writing as an act. 
