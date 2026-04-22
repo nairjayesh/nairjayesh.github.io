@@ -6,6 +6,19 @@ tags:
   - reading
 date: 2026-01-01
 ---
+**Apr 22 '26.** I have decided to queue project ideas as they come to me in until I get some mental space to actually execute them. 
+
+**Speech/Audio spatial awareness and source tracking**: I saw an amazing demo from Applied University of Hamburg's Signal Processing group on speech enhancement. Watch the video, it is really cool. The tiny dial that points to the source's location got me thinking - how about a simple program that takes in speech (single or multi-speaker) and for each unique speaker - point to their location. The most interesting question would be - how would you get a computer to be spatially aware of input audio ? With vision we have object detection and tracking, what is it's equivalent in the audio domain. 
+
+**Poverty mapping via Night-lights:** I came across a video lecture delivered at Cornell along with an article written in Science Journal on topic of mapping/geo-location of areas with poverty / extreme poverty. The cool part was - this was done in a roundabout fashion, where the model (CNN) was first trained to classify/detect regions with low nightlight and then sued this same model was used to predict location of poverty prone region[^1]. Now that Earth Models are more common, I wonder how the results would turn out to be by using an off-the-shelf model like [OlmoEarth](https://allenai.org/papers/olmoearth) - perhaps with some fine tuning. To that effect, predicting poverty prone regions in Asia, focusing on India, Japan, South-Korea, Taiwan, Hong-Kong, Singapore would be a very interesting project to pursue.  
+
+**Apr 21 '26.** I have been out for far too long. I wonder how high performing doers actually manage to get stuff done. Is it just the level of desire for them ? I keep coming back to reading some of Ran Prieur's thoughts on this, first via Ran's take on motivation and other being "life-skills". Just like other things, he notes that some people may be born with the skills to navigate life effectively, compared to others, and because of the nature of these skills being subtle, or more, soft-skills, it's harder to detect and learn from compared to a hard-skill like programming. 
+
+**Apr 18 '26.** I have been watching [Legend of the Galactic Heroes](https://en.wikipedia.org/wiki/Legend_of_the_Galactic_Heroes) and the writing blew me away. The dialogues written for each characters are beautiful, for instance this one: 
+> _Among the stars that sparkle in space, individual movement is insignificant. However, the appearance of just one new star is a matter that will change the map of space. Yang Wen-Li… are you only a planet, or are you a shining new star?_ -- Reinhard von Lohengramm 
+
+What a prose! I would have never thought about mixing these two together. 
+
 **Mar 2 '26.** Playing around with [fractal trees](https://fractalfoundation.org/OFC/OFC-1-1.html), helps get my mind off things now. Here's one that I found pretty! Will upload code and demo on site soon. 
 <figure class="fullwidth">
   <img src="/writings/Pasted image 20260303002006.png" >
@@ -91,3 +104,5 @@ I also got into watching Anime and reading manga (comics). These seemed to bring
 
 
  
+
+[^1]: This was a summary off the top of my head. Take it with a grain of salt and check out linked resources. 
